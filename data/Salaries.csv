@@ -1,0 +1,2081 @@
+Name,Age,Pos,Arb.Status,Salary,Team
+Gerrit Cole,29,SP,Vet,36000000,New-York-Yankees
+Giancarlo Stanton,30,DH,Vet,26000000,New-York-Yankees
+Masahiro Tanaka,31,SP,Pre-Arb,23000000,New-York-Yankees
+Aroldis Chapman,32,RP/CL,Vet,17200000,New-York-Yankees
+J.A. Happ,37,SP,Vet,17000000,New-York-Yankees
+Brett Gardner,36,CF,Vet,10000000,New-York-Yankees
+Zack Britton,32,RP,Vet,13000000,New-York-Yankees
+D.J. LeMahieu,31,2B,Vet,12000000,New-York-Yankees
+Aaron Hicks,30,CF,Vet,10785714,New-York-Yankees
+Adam Ottavino,34,RP,Vet,9000000,New-York-Yankees
+Aaron Judge,28,RF,Arb 1,8500000,New-York-Yankees
+Gary Sanchez,27,C,Arb 1,5000000,New-York-Yankees
+Giovanny Urshela,28,3B,Pre-Arb,2475000,New-York-Yankees
+Chad Green,29,RP,Arb 1,1275000,New-York-Yankees
+Luis Cessa,28,RP,Pre-Arb,895000,New-York-Yankees
+Erik Kratz,40,C,,1000000,New-York-Yankees
+Jonathan Holder,27,RP,Pre-Arb,750000,New-York-Yankees
+Jordan Montgomery,27,SP,Arb 1,805000,New-York-Yankees
+Gleyber Torres,23,SS,Pre-Arb,675500,New-York-Yankees
+Luke Voit,29,1B,Pre-Arb,634000,New-York-Yankees
+Mike Tauchman,29,LF,Pre-Arb,603100,New-York-Yankees
+Tyler Wade,25,2B,Pre-Arb,582800,New-York-Yankees
+Jonathan Loaisiga,25,RP,Pre-Arb,580625,New-York-Yankees
+Kyle Higashioka,30,C,Pre-Arb,579200,New-York-Yankees
+Clint Frazier,25,OF,Pre-Arb,588100,New-York-Yankees
+Nick Nelson,24,RP,Pre-Arb,563500,New-York-Yankees
+Deivi Garcia,21,SP,Pre-Arb,563500,New-York-Yankees
+Clarke Schmidt,24,SP,Pre-Arb,563500,New-York-Yankees
+James Paxton,31,SP,Arb 4,12500000,New-York-Yankees
+Luis Severino,26,SP,Arb 2,10500000,New-York-Yankees
+Tommy Kahnle,30,RP,Arb 3,2650000,New-York-Yankees
+Ben Heller,28,RP,Pre-Arb,563500,New-York-Yankees
+Domingo German,27,SP,Pre-Arb,0,New-York-Yankees
+Clayton Kershaw,32,SP,Vet,31000000,Los-Angeles-Dodgers
+Mookie Betts,27,RF,Arb 3,32000000,Los-Angeles-Dodgers
+Justin Turner,35,3B,Vet,20000000,Los-Angeles-Dodgers
+A.J. Pollock,32,LF,Vet,15000000,Los-Angeles-Dodgers
+Kenley Jansen,32,RP/CL,Vet,18000000,Los-Angeles-Dodgers
+Cody Bellinger,24,CF,Arb 1,11500000,Los-Angeles-Dodgers
+Blake Treinen,32,RP,Arb 3,10000000,Los-Angeles-Dodgers
+Joe Kelly,32,RP,Vet,8500000,Los-Angeles-Dodgers
+Joc Pederson,28,LF,Arb 3,7750000,Los-Angeles-Dodgers
+Corey Seager,26,SS,Arb 2,7600000,Los-Angeles-Dodgers
+Enrique Hernandez,28,CF,Arb 3,5900000,Los-Angeles-Dodgers
+Chris Taylor,29,2B,Arb 2,5600000,Los-Angeles-Dodgers
+Max Muncy,29,1B,Arb 1,2500000,Los-Angeles-Dodgers
+Pedro Baez,32,RP,Arb 3,4000000,Los-Angeles-Dodgers
+Alex Wood,29,RP,Vet,4000000,Los-Angeles-Dodgers
+Austin Barnes,30,C,Arb 1,1100000,Los-Angeles-Dodgers
+Julio Urias,23,SP,Pre-Arb,1000000,Los-Angeles-Dodgers
+Walker Buehler,25,SP,Pre-Arb,603500,Los-Angeles-Dodgers
+Dylan Floro,29,RP,Pre-Arb,593500,Los-Angeles-Dodgers
+Dustin May,22,SP,Pre-Arb,573500,Los-Angeles-Dodgers
+Will Smith,25,C,Pre-Arb,573500,Los-Angeles-Dodgers
+Brusdar Graterol,21,SP,Pre-Arb,566000,Los-Angeles-Dodgers
+Edwin Rios,26,1B,Pre-Arb,566000,Los-Angeles-Dodgers
+Jake McGee,33,RP,Vet,563500,Los-Angeles-Dodgers
+Adam Kolarek,31,RP,Pre-Arb,583500,Los-Angeles-Dodgers
+Victor Gonzalez,24,RP,Pre-Arb,563500,Los-Angeles-Dodgers
+Anthony Gonsolin,26,SP,Pre-Arb,566000,Los-Angeles-Dodgers
+Gavin Lux,22,2B,Pre-Arb,566000,Los-Angeles-Dodgers
+Jimmy Nelson,31,RP,Arb 3,750000,Los-Angeles-Dodgers
+Caleb Ferguson,23,RP,Pre-Arb,583500,Los-Angeles-Dodgers
+Andrew Toles,28,RF,Pre-Arb,563500,Los-Angeles-Dodgers
+Jon Lester,36,SP,Vet,20000000,Chicago-Cubs
+Yu Darvish,33,SP,Vet,22000000,Chicago-Cubs
+Jason Heyward,30,RF,Vet,23500000,Chicago-Cubs
+Kris Bryant,28,3B,Arb 3,18600000,Chicago-Cubs
+Anthony Rizzo,30,1B,Vet,16500000,Chicago-Cubs
+Craig Kimbrel,32,RP/CL,Vet,16000000,Chicago-Cubs
+Kyle Hendricks,30,SP,Arb 3,12000000,Chicago-Cubs
+Jose Quintana,31,RP,Vet,10500000,Chicago-Cubs
+Javier Baez,27,SS,Arb 2,10000000,Chicago-Cubs
+Kyle Schwarber,27,LF,Arb 2,7010000,Chicago-Cubs
+Willson Contreras,28,C,Arb 1,4500000,Chicago-Cubs
+Andrew Chafin,30,RP,Arb 3,3045000,Chicago-Cubs
+Jason Kipnis,33,2B,Vet,1000000,Chicago-Cubs
+Kyle Ryan,28,RP,Pre-Arb,975000,Chicago-Cubs
+David Bote,27,2B,Pre-Arb,960000,Chicago-Cubs
+Ryan Tepera,32,RP,Arb 2,900000,Chicago-Cubs
+Jeremy Jeffress,32,RP,Vet,850000,Chicago-Cubs
+Daniel Winkler,30,RP,Arb 3,750000,Chicago-Cubs
+Cameron Maybin,33,RF,Vet,1500000,Chicago-Cubs
+Ian Happ,25,CF,Pre-Arb,624000,Chicago-Cubs
+Victor Caratini,26,C,Pre-Arb,592000,Chicago-Cubs
+Alec Mills,28,SP,Pre-Arb,569500,Chicago-Cubs
+Nico Hoerner,23,SS,Pre-Arb,565000,Chicago-Cubs
+Duane Underwood,25,RP,Pre-Arb,565000,Chicago-Cubs
+Billy Hamilton,29,CF,Vet,1000000,Chicago-Cubs
+Jason Adam,28,RP,Pre-Arb,563500,Chicago-Cubs
+Adbert Alzolay,25,SP,Pre-Arb,563500,Chicago-Cubs
+Brailyn Marquez,21,RP,Pre-Arb,563500,Chicago-Cubs
+Tyler Chatwood,30,SP,Vet,13000000,Chicago-Cubs
+Daniel Descalso,33,2B,Vet,2500000,Chicago-Cubs
+Rowan Wick,27,RP,Pre-Arb,571500,Chicago-Cubs
+Brad Wieck,28,RP,Pre-Arb,571500,Chicago-Cubs
+James Norwood,26,RP,Pre-Arb,563500,Chicago-Cubs
+Ildemaro Vargas,28,2B,Pre-Arb,572600,Chicago-Cubs
+Manuel Rodriguez,23,P,Pre-Arb,563500,Chicago-Cubs
+J.D. Martinez,32,DH,Vet,23750000,Boston-Red-Sox
+Xander Bogaerts,27,SS,Vet,20000000,Boston-Red-Sox
+Nathan Eovaldi,30,SP,Vet,17000000,Boston-Red-Sox
+Jackie Bradley Jr.,30,CF,Arb 4,11000000,Boston-Red-Sox
+Martin Perez,29,SP,Vet,5700000,Boston-Red-Sox
+Christian Vazquez,29,C,Arb 3,4200000,Boston-Red-Sox
+Matt Barnes,30,RP/CL,Arb 2,3100000,Boston-Red-Sox
+Kevin Plawecki,29,C,Arb 2,1000000,Boston-Red-Sox
+Rafael Devers,23,3B,Pre-Arb,692500,Boston-Red-Sox
+Alex Verdugo,24,RF,Pre-Arb,601500,Boston-Red-Sox
+Ryan Brasier,32,RP,Pre-Arb,584500,Boston-Red-Sox
+Michael Chavis,24,2B,Pre-Arb,571000,Boston-Red-Sox
+Tzu-Wei Lin,26,SS,Pre-Arb,570000,Boston-Red-Sox
+Darwinzon Hernandez,23,RP,Pre-Arb,566000,Boston-Red-Sox
+Ryan Weber,29,RP,Pre-Arb,600000,Boston-Red-Sox
+Jonathan Arauz,21,SS,Pre-Arb,563500,Boston-Red-Sox
+Phillips Valdez,28,RP,Pre-Arb,563500,Boston-Red-Sox
+Marcus Walden,31,RP,Pre-Arb,579500,Boston-Red-Sox
+Christian Arroyo,25,SS,Pre-Arb,565500,Boston-Red-Sox
+Chris Mazza,30,RP,Pre-Arb,566000,Boston-Red-Sox
+Dylan Covey,28,RP,Pre-Arb,575000,Boston-Red-Sox
+Bobby Dalbec,25,3B,Pre-Arb,563500,Boston-Red-Sox
+Mike Kickham,31,SP,Arb 3,563500,Boston-Red-Sox
+Andrew Triggs,31,RP,Arb 1,563500,Boston-Red-Sox
+Domingo Tapia,28,RP,Pre-Arb,563500,Boston-Red-Sox
+Tanner Houck,24,SP,Pre-Arb,563500,Boston-Red-Sox
+Cesar Puello,29,RF,Pre-Arb,563500,Boston-Red-Sox
+Nick Pivetta,27,RP,Pre-Arb,588000,Boston-Red-Sox
+Chris Sale,31,SP,Vet,30000000,Boston-Red-Sox
+Dustin Pedroia,36,2B,Vet,13125000,Boston-Red-Sox
+Eduardo Rodriguez,27,SP,Arb 3,8300000,Boston-Red-Sox
+Andrew Benintendi,25,LF,Arb 1,3400000,Boston-Red-Sox
+Zack Godley,30,SP,Arb 1,1500000,Boston-Red-Sox
+Josh Taylor,27,RP,Pre-Arb,577000,Boston-Red-Sox
+Austin Brice,28,RP,Pre-Arb,573500,Boston-Red-Sox
+Colten Brewer,27,RP,Pre-Arb,569500,Boston-Red-Sox
+Kyle Hart,27,RP,Pre-Arb,563500,Boston-Red-Sox
+Yairo Munoz,25,SS,Pre-Arb,575000,Boston-Red-Sox
+Jose Altuve,30,2B,Vet,29000000,Houston-Astros
+George Springer,30,CF,Arb 4,21000000,Houston-Astros
+Zack Greinke,36,SP,Vet,35000000,Houston-Astros
+Michael Brantley,33,LF,Vet,16000000,Houston-Astros
+Alex Bregman,26,3B,Arb 1,12666666,Houston-Astros
+Josh Reddick,33,RF,Vet,13000000,Houston-Astros
+Yulieski Gurriel,36,1B,Pre-Arb,8700000,Houston-Astros
+Ryan Pressly,31,RP/CL,Vet,8750000,Houston-Astros
+Carlos Correa,25,SS,Arb 2,8000000,Houston-Astros
+Lance McCullers,26,SP,Arb 3,4100000,Houston-Astros
+Martin Maldonado,33,C,Vet,3500000,Houston-Astros
+Aledmys Diaz,29,SS,Arb 1,2600000,Houston-Astros
+Dustin Garneau,32,C,Pre-Arb,659300,Houston-Astros
+Josh James,27,SP,Pre-Arb,590700,Houston-Astros
+Framber Valdez,26,SP,Pre-Arb,582200,Houston-Astros
+Jose Urquidy,25,SP,Pre-Arb,574600,Houston-Astros
+Abraham Toro-Hernandez,23,3B,Pre-Arb,573700,Houston-Astros
+Myles Straw,25,CF,Pre-Arb,571300,Houston-Astros
+Kyle Tucker,23,LF,Pre-Arb,568700,Houston-Astros
+Cy Sneed,27,RP,Pre-Arb,568300,Houston-Astros
+Cristian Javier,23,SP,Pre-Arb,563500,Houston-Astros
+Enoli Paredes,24,RP,Pre-Arb,563500,Houston-Astros
+Blake Taylor,24,RP,Pre-Arb,563500,Houston-Astros
+Andre Scrubb,25,RP,Pre-Arb,563500,Houston-Astros
+Jack Mayfield,29,2B,Pre-Arb,563500,Houston-Astros
+Brooks Raley,32,RP,Pre-Arb,563500,Houston-Astros
+Luis Garcia,23,RP,Pre-Arb,18690,Houston-Astros
+Nivaldo Rodriguez,23,RP,Pre-Arb,563500,Houston-Astros
+Justin Verlander,37,SP,Vet,33000000,Houston-Astros
+Roberto Osuna,25,RP/CL,Arb 3,10000000,Houston-Astros
+Brad Peacock,32,RP,Arb 4,3900000,Houston-Astros
+Chris Devenski,29,RP,Arb 2,2000000,Houston-Astros
+Yordan Alvarez,23,DH,Pre-Arb,607000,Houston-Astros
+Austin Pruitt,30,RP,Pre-Arb,584900,Houston-Astros
+Rogelio Armenteros,26,SP,Pre-Arb,569100,Houston-Astros
+Kent Emanuel,28,P,Pre-Arb,0,Houston-Astros
+Francis Martes,24,RP,Pre-Arb,0,Houston-Astros
+Robinson Cano,37,2B,Vet,24000000,New-York-Mets
+Jacob deGrom,32,SP,Arb 4,25500000,New-York-Mets
+Dellin Betances,32,RP,Vet,7797000,New-York-Mets
+Wilson Ramos,32,C,Vet,10436000,New-York-Mets
+Jeurys Familia,30,RP,Vet,11666666,New-York-Mets
+Rick Porcello,31,SP,Vet,10000000,New-York-Mets
+Justin Wilson,32,RP,Vet,5093000,New-York-Mets
+Edwin Diaz,26,RP/CL,Arb 1,5100000,New-York-Mets
+Steven Matz,29,RP,Arb 2,5000000,New-York-Mets
+Michael Wacha,29,RP,Vet,3555555,New-York-Mets
+Robinson Chirinos,36,C,Vet,5750000,New-York-Mets
+Brandon Nimmo,27,CF,Arb 1,2175000,New-York-Mets
+Seth Lugo,30,SP,Arb 1,2000000,New-York-Mets
+Todd Frazier,34,3B,Vet,3500000,New-York-Mets
+Brad Brach,34,RP,Vet,975000,New-York-Mets
+Jared Hughes,34,RP,Vet,700000,New-York-Mets
+Pete Alonso,25,1B,Pre-Arb,652521,New-York-Mets
+Jeff McNeil,28,3B,Pre-Arb,617676,New-York-Mets
+Amed Rosario,24,SS,Pre-Arb,608780,New-York-Mets
+J.D. Davis,27,LF,Pre-Arb,592463,New-York-Mets
+Dominic Smith,25,1B,Pre-Arb,578826,New-York-Mets
+Chasen Shreve,29,RP,Arb 3,575000,New-York-Mets
+David Peterson,24,SP,Pre-Arb,563500,New-York-Mets
+Luis Guillorme,25,SS,Pre-Arb,566054,New-York-Mets
+Miguel Castro,25,RP,Arb 1,1050000,New-York-Mets
+Corey Oswalt,26,SP,Pre-Arb,563500,New-York-Mets
+Guillermo Heredia,29,CF,Arb 1,1000000,New-York-Mets
+Ryan Cordell,28,LF,Pre-Arb,575000,New-York-Mets
+Jed Lowrie,36,2B,Vet,11500000,New-York-Mets
+Noah Syndergaard,27,SP,Arb 3,9700000,New-York-Mets
+Michael Conforto,27,RF,Arb 2,8000000,New-York-Mets
+Jake Marisnick,29,CF,Arb 4,3312500,New-York-Mets
+Eduardo Nunez,33,3B,Vet,1250000,New-York-Mets
+Robert Gsellman,26,RP,Arb 1,1225000,New-York-Mets
+Rene Rivera,36,C,Vet,1000000,New-York-Mets
+Tomas Nido,26,C,Pre-Arb,576826,New-York-Mets
+Andres Gimenez,21,SS,Pre-Arb,563500,New-York-Mets
+Erasmo Ramirez,30,RP,Vet,563500,New-York-Mets
+Bryce Harper,27,RF,Vet,27538462,Philadelphia-Phillies
+Zack Wheeler,30,SP,Vet,21500000,Philadelphia-Phillies
+Andrew McCutchen,33,LF,Vet,17000000,Philadelphia-Phillies
+Jean Segura,30,2B,Vet,14850000,Philadelphia-Phillies
+Didi Gregorius,30,SS,Vet,14000000,Philadelphia-Phillies
+J.T. Realmuto,29,C,Arb 3,10000000,Philadelphia-Phillies
+Brandon Workman,31,RP/CL,Arb 3,3500000,Philadelphia-Phillies
+Aaron Nola,27,SP,Arb 2,8500000,Philadelphia-Phillies
+Hector Neris,31,RP,Arb 2,4711111,Philadelphia-Phillies
+Jay Bruce,33,RF,Vet,14000000,Philadelphia-Phillies
+Vincent Velasquez,28,SP,Arb 2,3600000,Philadelphia-Phillies
+Zach Eflin,26,SP,Arb 1,2625000,Philadelphia-Phillies
+Scott Kingery,26,3B,Pre-Arb,1750000,Philadelphia-Phillies
+Adam Morgan,30,RP,Arb 2,1575000,Philadelphia-Phillies
+David Phelps,33,RP,Vet,1612000,Philadelphia-Phillies
+Tommy Hunter,33,RP,Vet,850000,Philadelphia-Phillies
+Andrew Knapp,28,C,Arb 1,710000,Philadelphia-Phillies
+Philip Gosselin,31,2B,Arb 1,575000,Philadelphia-Phillies
+Adam Haseley,24,CF,Pre-Arb,569500,Philadelphia-Phillies
+Roman Quinn,27,CF,Pre-Arb,569000,Philadelphia-Phillies
+Ranger Suarez,24,RP,Pre-Arb,570000,Philadelphia-Phillies
+Spencer Howard,23,SP,Pre-Arb,563500,Philadelphia-Phillies
+Blake Parker,35,RP,Arb 3,563500,Philadelphia-Phillies
+Alec Bohm,23,3B,Pre-Arb,563500,Philadelphia-Phillies
+JoJo Romero,23,RP,Pre-Arb,563500,Philadelphia-Phillies
+David Hale,32,RP,Pre-Arb,575000,Philadelphia-Phillies
+Connor Brogdon,25,RP,Pre-Arb,563500,Philadelphia-Phillies
+Rafael Marchan,21,C,Pre-Arb,563500,Philadelphia-Phillies
+Jake Arrieta,34,SP,Vet,20000000,Philadelphia-Phillies
+David Robertson,35,RP,Vet,11000000,Philadelphia-Phillies
+Jose Alvarez,31,RP,Arb 3,2950000,Philadelphia-Phillies
+Rhys Hoskins,27,1B,Pre-Arb,605000,Philadelphia-Phillies
+Seranthony Dominguez,25,RP,Pre-Arb,571500,Philadelphia-Phillies
+Kyle Garlick,28,RF,Pre-Arb,564500,Philadelphia-Phillies
+Heath Hembree,31,RP,Arb 2,1612500,Philadelphia-Phillies
+Max Scherzer,35,SP,Vet,35920616,Washington-Nationals
+Patrick Corbin,30,SP,Vet,19416666,Washington-Nationals
+Anibal Sanchez,36,SP,Vet,9555555,Washington-Nationals
+Will Harris,35,RP,Vet,8000000,Washington-Nationals
+Trea Turner,27,SS,Arb 2,7450000,Washington-Nationals
+Kurt Suzuki,36,C,Vet,6000000,Washington-Nationals
+Daniel Hudson,33,RP/CL,Vet,5148148,Washington-Nationals
+Yan Gomes,32,C,Vet,4000000,Washington-Nationals
+Michael Taylor,29,CF,Arb 3,3325000,Washington-Nationals
+Eric Thames,33,1B,Vet,3000000,Washington-Nationals
+Asdrubal Cabrera,34,3B,Vet,2685000,Washington-Nationals
+Josh Harrison,32,2B,Vet,1000000,Washington-Nationals
+Juan Soto,21,LF,Pre-Arb,629400,Washington-Nationals
+Victor Robles,23,CF,Pre-Arb,592800,Washington-Nationals
+Wander Suero,28,RP,Pre-Arb,582200,Washington-Nationals
+Austin Voth,28,SP,Pre-Arb,568900,Washington-Nationals
+Erick Fedde,27,SP,Pre-Arb,563500,Washington-Nationals
+Kyle Finnegan,28,RP,Pre-Arb,563500,Washington-Nationals
+Ryne Harper,31,RP,Pre-Arb,573500,Washington-Nationals
+Luis Garcia,20,SS,Pre-Arb,563500,Washington-Nationals
+Brock Holt,32,2B,Vet,563500,Washington-Nationals
+Kyle McGowin,28,RP,Pre-Arb,563500,Washington-Nationals
+Andrew Stevenson,26,OF,Pre-Arb,563500,Washington-Nationals
+Ben Braymer,26,RP,Pre-Arb,563500,Washington-Nationals
+Yadiel Hernandez,32,OF,Pre-Arb,563500,Washington-Nationals
+Jake Noll,26,2B,Pre-Arb,563500,Washington-Nationals
+Wil Crowe,25,RP,Pre-Arb,563500,Washington-Nationals
+Paolo Espino,33,RP,Pre-Arb,563500,Washington-Nationals
+Stephen Strasburg,31,SP,Vet,35000000,Washington-Nationals
+Adam Eaton,31,RF,Vet,9500000,Washington-Nationals
+Sean Doolittle,33,RP/CL,Vet,6500000,Washington-Nationals
+Starlin Castro,30,2B,Vet,6000000,Washington-Nationals
+Howie Kendrick,36,2B,Vet,4000000,Washington-Nationals
+Roenis Elias,31,RP,Arb 2,1975000,Washington-Nationals
+Javy Guerra,34,RP,Arb 1,1000000,Washington-Nationals
+Sam Freeman,33,RP,Arb 3,575000,Washington-Nationals
+Tanner Rainey,27,RP,Pre-Arb,572200,Washington-Nationals
+Carter Kieboom,22,3B,Pre-Arb,564700,Washington-Nationals
+Seth Romero,24,RP,Pre-Arb,563500,Washington-Nationals
+Dakota Bacus,29,RP,Pre-Arb,563500,Washington-Nationals
+James Bourque,26,RP,Pre-Arb,563500,Washington-Nationals
+Aaron Barrett,32,RP,Pre-Arb,563500,Washington-Nationals
+Tres Barrera,25,C,Pre-Arb,0,Washington-Nationals
+Johnny Cueto,34,SP,Vet,21000000,San-Francisco-Giants
+Brandon Belt,32,1B,Vet,17200000,San-Francisco-Giants
+Brandon Crawford,33,SS,Vet,15200000,San-Francisco-Giants
+Evan Longoria,34,3B,Vet,15000000,San-Francisco-Giants
+Kevin Gausman,29,SP,Arb 4,9000000,San-Francisco-Giants
+Tony Watson,35,RP/CL,Vet,4481481,San-Francisco-Giants
+Drew Smyly,31,SP,Vet,4093000,San-Francisco-Giants
+Wilmer Flores,28,2B,Vet,3000000,San-Francisco-Giants
+Tyler Anderson,30,SP,Arb 2,2090000,San-Francisco-Giants
+Trevor Cahill,32,RP,Vet,2000000,San-Francisco-Giants
+Donovan Solano,32,2B,Arb 2,1375000,San-Francisco-Giants
+Daniel Robertson,26,SS,Arb 1,1025000,San-Francisco-Giants
+Alex Dickerson,30,LF,Arb 2,925000,San-Francisco-Giants
+Wandy Peralta,28,RP,Arb 1,805000,San-Francisco-Giants
+Darin Ruf,33,1B,Pre-Arb,563500,San-Francisco-Giants
+Jarlin Garcia,27,RP,Pre-Arb,588500,San-Francisco-Giants
+Austin Slater,27,LF,Pre-Arb,576000,San-Francisco-Giants
+Mike Yastrzemski,29,RF,Pre-Arb,569750,San-Francisco-Giants
+Mauricio Dubon,25,2B,Pre-Arb,566625,San-Francisco-Giants
+Logan Webb,23,SP,Pre-Arb,566625,San-Francisco-Giants
+Tyler Rogers,29,RP,Pre-Arb,564750,San-Francisco-Giants
+Caleb Baragar,26,RP,Pre-Arb,563500,San-Francisco-Giants
+Sam Selman,29,RP,Pre-Arb,563500,San-Francisco-Giants
+Shaun Anderson,25,RP,Pre-Arb,563500,San-Francisco-Giants
+Joey Bart,23,C,Pre-Arb,563500,San-Francisco-Giants
+Tyler Heineman,29,C,Pre-Arb,563500,San-Francisco-Giants
+Steven Duggar,26,CF,Pre-Arb,563500,San-Francisco-Giants
+Rico Garcia,26,RP,Pre-Arb,563500,San-Francisco-Giants
+Trevor Gott,27,RP,Pre-Arb,588500,San-Francisco-Giants
+Reyes Moronta,27,RP,Pre-Arb,588500,San-Francisco-Giants
+Tyler Beede,27,SP,Pre-Arb,569750,San-Francisco-Giants
+Sam Coonrod,27,RP,Pre-Arb,566625,San-Francisco-Giants
+Aramis Garcia,27,C,Pre-Arb,566625,San-Francisco-Giants
+Chadwick Tromp,25,C,Pre-Arb,563500,San-Francisco-Giants
+Joey Rickard,29,LF,Pre-Arb,563500,San-Francisco-Giants
+Luis Alexander Basabe,23,OF,Pre-Arb,563500,San-Francisco-Giants
+Max Scherzer,35,SP,Vet,35920616,St.-Louis-Cardinals
+Clayton Kershaw,32,SP,Vet,31000000,St.-Louis-Cardinals
+Mike Trout,28,CF,Vet,37766667,St.-Louis-Cardinals
+Gerrit Cole,29,SP,Vet,36000000,St.-Louis-Cardinals
+Manny Machado,27,3B,Vet,32000000,St.-Louis-Cardinals
+Jose Altuve,30,2B,Vet,29000000,St.-Louis-Cardinals
+Paul Goldschmidt,32,1B,Vet,26000000,St.-Louis-Cardinals
+Bryce Harper,27,RF,Vet,27538462,St.-Louis-Cardinals
+Miguel Cabrera,37,DH,Vet,30000000,St.-Louis-Cardinals
+Albert Pujols,40,1B,Vet,29000000,St.-Louis-Cardinals
+Jon Lester,36,SP,Vet,20000000,St.-Louis-Cardinals
+Mark Melancon,35,RP/CL,Vet,19000000,St.-Louis-Cardinals
+Anthony Rendon,30,3B,Vet,26071428,St.-Louis-Cardinals
+Mookie Betts,27,RF,Arb 3,32000000,St.-Louis-Cardinals
+Wil Myers,29,LF,Vet,22500000,St.-Louis-Cardinals
+Giancarlo Stanton,30,DH,Vet,26000000,St.-Louis-Cardinals
+Joey Votto,36,1B,Vet,25000000,St.-Louis-Cardinals
+Jordan Zimmermann,34,RP,Vet,25000000,St.-Louis-Cardinals
+J.D. Martinez,32,DH,Vet,23750000,St.-Louis-Cardinals
+Masahiro Tanaka,31,SP,Pre-Arb,23000000,St.-Louis-Cardinals
+Freddie Freeman,30,1B,Vet,22559375,St.-Louis-Cardinals
+Eric Hosmer,30,1B,Vet,21000000,St.-Louis-Cardinals
+Carlos Santana,34,1B,Vet,20833334,St.-Louis-Cardinals
+Yu Darvish,33,SP,Vet,22000000,St.-Louis-Cardinals
+Charlie Blackmon,34,RF,Vet,21333333,St.-Louis-Cardinals
+Justin Turner,35,3B,Vet,20000000,St.-Louis-Cardinals
+Zack Wheeler,30,SP,Vet,21500000,St.-Louis-Cardinals
+Jason Heyward,30,RF,Vet,23500000,St.-Louis-Cardinals
+Shin-Soo Choo,37,DH,Vet,21000000,St.-Louis-Cardinals
+Johnny Cueto,34,SP,Vet,21000000,St.-Louis-Cardinals
+George Springer,30,CF,Arb 4,21000000,St.-Louis-Cardinals
+Justin Upton,32,LF,Vet,21000000,St.-Louis-Cardinals
+Aroldis Chapman,32,RP/CL,Vet,17200000,St.-Louis-Cardinals
+Kyle Seager,32,3B,Vet,19500000,St.-Louis-Cardinals
+Robinson Cano,37,2B,Vet,24000000,St.-Louis-Cardinals
+Patrick Corbin,30,SP,Vet,19416666,St.-Louis-Cardinals
+A.J. Pollock,32,LF,Vet,15000000,St.-Louis-Cardinals
+Xander Bogaerts,27,SS,Vet,20000000,St.-Louis-Cardinals
+Yadier Molina,37,C,Vet,20000000,St.-Louis-Cardinals
+Hyun-Jin Ryu,33,SP,Vet,20000000,St.-Louis-Cardinals
+Dexter Fowler,34,RF,Vet,16500000,St.-Louis-Cardinals
+Brandon Belt,32,1B,Vet,17200000,St.-Louis-Cardinals
+Zack Greinke,36,SP,Vet,35000000,St.-Louis-Cardinals
+Kris Bryant,28,3B,Arb 3,18600000,St.-Louis-Cardinals
+Matt Carpenter,34,3B,Vet,18500000,St.-Louis-Cardinals
+Yasmani Grandal,31,C,Vet,18250000,St.-Louis-Cardinals
+Yusei Kikuchi,29,SP,Pre-Arb,15500000,St.-Louis-Cardinals
+Josh Donaldson,34,3B,Vet,21000000,St.-Louis-Cardinals
+Kenley Jansen,32,RP/CL,Vet,18000000,St.-Louis-Cardinals
+Dallas Keuchel,32,SP,Vet,18000000,St.-Louis-Cardinals
+Marcell Ozuna,29,LF,Vet,18000000,St.-Louis-Cardinals
+Jacob deGrom,32,SP,Arb 4,25500000,St.-Louis-Cardinals
+Ryan Braun,36,1B,Vet,17000000,St.-Louis-Cardinals
+Michael Brantley,33,LF,Vet,16000000,St.-Louis-Cardinals
+Trevor Bauer,29,SP,Arb 4,17500000,St.-Louis-Cardinals
+Francisco Lindor,26,SS,Arb 2,17500000,St.-Louis-Cardinals
+Dellin Betances,32,RP,Vet,7797000,St.-Louis-Cardinals
+Nathan Eovaldi,30,SP,Vet,17000000,St.-Louis-Cardinals
+J.A. Happ,37,SP,Vet,17000000,St.-Louis-Cardinals
+Andrew McCutchen,33,LF,Vet,17000000,St.-Louis-Cardinals
+Khris Davis,32,DH,Vet,16750000,St.-Louis-Cardinals
+Anthony Rizzo,30,1B,Vet,16500000,St.-Louis-Cardinals
+Salvador Perez,30,C,Vet,14200000,St.-Louis-Cardinals
+Nick Castellanos,28,RF,Vet,16000000,St.-Louis-Cardinals
+Craig Kimbrel,32,RP/CL,Vet,16000000,St.-Louis-Cardinals
+Jean Segura,30,2B,Vet,14850000,St.-Louis-Cardinals
+Brandon Crawford,33,SS,Vet,15200000,St.-Louis-Cardinals
+Alex Bregman,26,3B,Arb 1,12666666,St.-Louis-Cardinals
+Jose Abreu,33,1B,Vet,12781666,St.-Louis-Cardinals
+Danny Duffy,31,SP,Vet,15250000,St.-Louis-Cardinals
+Charlie Morton,36,SP,Vet,15000000,St.-Louis-Cardinals
+Evan Longoria,34,3B,Vet,15000000,St.-Louis-Cardinals
+Randal Grichuk,28,CF,Arb 3,13000000,St.-Louis-Cardinals
+Kenta Maeda,32,SP,Pre-Arb,5310000,St.-Louis-Cardinals
+Dee Gordon,32,2B,Vet,13800000,St.-Louis-Cardinals
+Didi Gregorius,30,SS,Vet,14000000,St.-Louis-Cardinals
+Edwin Encarnacion,37,DH,Vet,12000000,St.-Louis-Cardinals
+Lance Lynn,33,SP,Vet,11333333,St.-Louis-Cardinals
+Brett Gardner,36,CF,Vet,10000000,St.-Louis-Cardinals
+Zack Britton,32,RP,Vet,13000000,St.-Louis-Cardinals
+Josh Reddick,33,RF,Vet,13000000,St.-Louis-Cardinals
+Marcus Semien,29,SS,Arb 3,13000000,St.-Louis-Cardinals
+Will Smith,30,RP,Vet,13000000,St.-Louis-Cardinals
+Christian Yelich,28,LF,Vet,12500000,St.-Louis-Cardinals
+Kyle Gibson,32,SP,Vet,11555555,St.-Louis-Cardinals
+Rich Hill,40,SP,Vet,6518518,St.-Louis-Cardinals
+Alex Cobb,32,SP,Vet,14000000,St.-Louis-Cardinals
+Nelson Cruz,40,DH,Vet,12000000,St.-Louis-Cardinals
+Kyle Hendricks,30,SP,Arb 3,12000000,St.-Louis-Cardinals
+D.J. LeMahieu,31,2B,Vet,12000000,St.-Louis-Cardinals
+Mike Moustakas,31,2B,Vet,12000000,St.-Louis-Cardinals
+Tanner Roark,33,SP,Vet,12000000,St.-Louis-Cardinals
+Wilson Ramos,32,C,Vet,10436000,St.-Louis-Cardinals
+Jeurys Familia,30,RP,Vet,11666666,St.-Louis-Cardinals
+Andrew Miller,35,RP,Vet,11537000,St.-Louis-Cardinals
+Cody Bellinger,24,CF,Arb 1,11500000,St.-Louis-Cardinals
+Jose Quintana,31,RP,Vet,10500000,St.-Louis-Cardinals
+Aaron Hicks,30,CF,Vet,10785714,St.-Louis-Cardinals
+Sonny Gray,30,SP,Vet,10203667,St.-Louis-Cardinals
+Jackie Bradley Jr.,30,CF,Arb 4,11000000,St.-Louis-Cardinals
+Adam Ottavino,34,RP,Vet,9000000,St.-Louis-Cardinals
+Trevor Story,27,SS,Arb 2,9000000,St.-Louis-Cardinals
+Alex Colome,31,RP/CL,Arb 3,10532500,St.-Louis-Cardinals
+Garrett Richards,32,RP,Vet,9241000,St.-Louis-Cardinals
+Kevin Kiermaier,30,CF,Vet,10166666,St.-Louis-Cardinals
+Carlos Carrasco,33,SP,Vet,10250000,St.-Louis-Cardinals
+Kolten Wong,29,2B,Vet,10250000,St.-Louis-Cardinals
+Javier Baez,27,SS,Arb 2,10000000,St.-Louis-Cardinals
+Rick Porcello,31,SP,Vet,10000000,St.-Louis-Cardinals
+J.T. Realmuto,29,C,Arb 3,10000000,St.-Louis-Cardinals
+Blake Treinen,32,RP,Arb 3,10000000,St.-Louis-Cardinals
+Rougned Odor,26,2B,Pre-Arb,9333333,St.-Louis-Cardinals
+Gregory Polanco,28,RF,Arb 3,8600000,St.-Louis-Cardinals
+Brandon Workman,31,RP/CL,Arb 3,3500000,St.-Louis-Cardinals
+Drew Pomeranz,31,RP,Vet,6000000,St.-Louis-Cardinals
+Yulieski Gurriel,36,1B,Pre-Arb,8700000,St.-Louis-Cardinals
+Aaron Nola,27,SP,Arb 2,8500000,St.-Louis-Cardinals
+Kevin Gausman,29,SP,Arb 4,9000000,St.-Louis-Cardinals
+Marwin Gonzalez,31,3B,Vet,9000000,St.-Louis-Cardinals
+Raisel Iglesias,30,RP/CL,Pre-Arb,9000000,St.-Louis-Cardinals
+Julio Teheran,29,SP,Vet,9000000,St.-Louis-Cardinals
+Ryan Pressly,31,RP/CL,Vet,8750000,St.-Louis-Cardinals
+Blake Snell,27,SP,Arb 1,7600000,St.-Louis-Cardinals
+Anibal Sanchez,36,SP,Vet,9555555,St.-Louis-Cardinals
+Chase Anderson,32,SP,Arb 4,8500000,St.-Louis-Cardinals
+Aaron Judge,28,RF,Arb 1,8500000,St.-Louis-Cardinals
+Joe Kelly,32,RP,Vet,8500000,St.-Louis-Cardinals
+Joakim Soria,36,RP,Vet,8500000,St.-Louis-Cardinals
+Michael Fiers,35,SP,Vet,8100000,St.-Louis-Cardinals
+Carlos Correa,25,SS,Arb 2,8000000,St.-Louis-Cardinals
+Travis d'Arnaud,31,C,Vet,8000000,St.-Louis-Cardinals
+Will Harris,35,RP,Vet,8000000,St.-Louis-Cardinals
+Daniel Murphy,35,1B,Vet,8000000,St.-Louis-Cardinals
+Adam Wainwright,38,SP,Vet,6111111,St.-Louis-Cardinals
+Tommy Pham,32,LF,Arb 2,7900000,St.-Louis-Cardinals
+Stephen Piscotty,29,RF,Arb 2,7333333,St.-Louis-Cardinals
+Eugenio Suarez,28,3B,Arb 3,9535714,St.-Louis-Cardinals
+Joc Pederson,28,LF,Arb 3,7750000,St.-Louis-Cardinals
+Eddie Rosario,28,LF,Arb 2,7750000,St.-Louis-Cardinals
+Avisail Garcia,29,LF,Vet,7250000,St.-Louis-Cardinals
+Corey Seager,26,SS,Arb 2,7600000,St.-Louis-Cardinals
+Trea Turner,27,SS,Arb 2,7450000,St.-Louis-Cardinals
+Eduardo Escobar,31,3B,Vet,7166666,St.-Louis-Cardinals
+Jose Ramirez,27,3B,Arb 3,6850000,St.-Louis-Cardinals
+Jorge Soler,28,DH,Arb 1,7300000,St.-Louis-Cardinals
+Nick Ahmed,30,SS,Arb 3,6375000,St.-Louis-Cardinals
+Kyle Schwarber,27,LF,Arb 2,7010000,St.-Louis-Cardinals
+Corey Dickerson,31,LF,Vet,8000000,St.-Louis-Cardinals
+Jordan Lyles,29,SP,Vet,8000000,St.-Louis-Cardinals
+Ender Inciarte,29,CF,Arb 4,7700000,St.-Louis-Cardinals
+Brad Hand,30,RP/CL,Vet,7000000,St.-Louis-Cardinals
+Chris Martin,34,RP,Pre-Arb,7000000,St.-Louis-Cardinals
+David Peralta,32,LF,Arb 3,7000000,St.-Louis-Cardinals
+Tony Watson,35,RP/CL,Vet,4481481,St.-Louis-Cardinals
+Cesar Hernandez,30,2B,Arb 4,6343000,St.-Louis-Cardinals
+Shane Greene,31,RP,Arb 3,6250000,St.-Louis-Cardinals
+Max Kepler,27,RF,Arb 2,6250000,St.-Louis-Cardinals
+Shogo Akiyama,32,CF,Pre-Arb,6000000,St.-Louis-Cardinals
+Madison Bumgarner,30,SP,Vet,6000000,St.-Louis-Cardinals
+Kole Calhoun,32,RF,Vet,6000000,St.-Louis-Cardinals
+Wade Miley,33,SP,Vet,6000000,St.-Louis-Cardinals
+Kurt Suzuki,36,C,Vet,6000000,St.-Louis-Cardinals
+Martin Perez,29,SP,Vet,5700000,St.-Louis-Cardinals
+Anthony DeSclafani,30,RP,Arb 3,5900000,St.-Louis-Cardinals
+Enrique Hernandez,28,CF,Arb 3,5900000,St.-Louis-Cardinals
+Jurickson Profar,27,2B,Arb 4,5700000,St.-Louis-Cardinals
+Chris Taylor,29,2B,Arb 2,5600000,St.-Louis-Cardinals
+Nomar Mazara,25,RF,Arb 2,5560000,St.-Louis-Cardinals
+Freddy Galvis,30,SS,Vet,5500000,St.-Louis-Cardinals
+Yusmeiro Petit,35,RP,Vet,5500000,St.-Louis-Cardinals
+James McCann,30,C,Arb 3,5400000,St.-Louis-Cardinals
+Daniel Hudson,33,RP/CL,Vet,5148148,St.-Louis-Cardinals
+Brett Anderson,32,SP,Vet,5148000,St.-Louis-Cardinals
+German Marquez,25,SP,Arb 1,4800000,St.-Louis-Cardinals
+Matt Boyd,29,SP,Arb 2,5300000,St.-Louis-Cardinals
+Liam Hendriks,31,RP/CL,Arb 4,5300000,St.-Louis-Cardinals
+Justin Wilson,32,RP,Vet,5093000,St.-Louis-Cardinals
+Zach Davies,27,SP,Arb 2,5250000,St.-Louis-Cardinals
+Corey Knebel,28,RP,Arb 3,5125000,St.-Louis-Cardinals
+Edwin Diaz,26,RP/CL,Arb 1,5100000,St.-Louis-Cardinals
+Steven Matz,29,RP,Arb 2,5000000,St.-Louis-Cardinals
+Max Muncy,29,1B,Arb 1,2500000,St.-Louis-Cardinals
+Dylan Bundy,27,SP,Arb 2,5000000,St.-Louis-Cardinals
+Whit Merrifield,31,CF,Arb 1,5000000,St.-Louis-Cardinals
+Gary Sanchez,27,C,Arb 1,5000000,St.-Louis-Cardinals
+Yoshitomo Tsutsugo,28,DH,Pre-Arb,5000000,St.-Louis-Cardinals
+Hector Neris,31,RP,Arb 2,4711111,St.-Louis-Cardinals
+Starling Marte,31,CF,Vet,11500000,St.-Louis-Cardinals
+Josh Bell,27,1B,Arb 1,4800000,St.-Louis-Cardinals
+Mark Canha,31,LF,Arb 2,4800000,St.-Louis-Cardinals
+Miguel Rojas,31,SS,Arb 3,4750000,St.-Louis-Cardinals
+Sergio Romo,37,RP,Vet,4750000,St.-Louis-Cardinals
+Tucker Barnhart,29,C,Pre-Arb,3937500,St.-Louis-Cardinals
+Willson Contreras,28,C,Arb 1,4500000,St.-Louis-Cardinals
+Gio Gonzalez,34,RP,Vet,4500000,St.-Louis-Cardinals
+Mike Zunino,29,C,Arb 4,4500000,St.-Louis-Cardinals
+Michael Wacha,29,RP,Vet,3555555,St.-Louis-Cardinals
+Craig Stammen,36,RP,Vet,4185000,St.-Louis-Cardinals
+Jay Bruce,33,RF,Vet,14000000,St.-Louis-Cardinals
+Carlos Rodon,27,SP,Arb 3,4450000,St.-Louis-Cardinals
+Taylor Rogers,29,RP/CL,Arb 2,4450000,St.-Louis-Cardinals
+Travis Shaw,30,1B,Arb 2,4158000,St.-Louis-Cardinals
+Joey Gallo,26,RF,Arb 1,4400000,St.-Louis-Cardinals
+Andrew Heaney,29,SP,Arb 3,4300000,St.-Louis-Cardinals
+Drew Smyly,31,SP,Vet,4093000,St.-Louis-Cardinals
+Alex Avila,33,C,Vet,4250000,St.-Louis-Cardinals
+Matt Shoemaker,33,SP,Arb 4,4200000,St.-Louis-Cardinals
+Christian Vazquez,29,C,Arb 3,4200000,St.-Louis-Cardinals
+Austin Romine,31,C,Vet,4150000,St.-Louis-Cardinals
+Josh Hader,26,RP/CL,Arb 1,4100000,St.-Louis-Cardinals
+Lance McCullers,26,SP,Arb 3,4100000,St.-Louis-Cardinals
+Roberto Perez,31,C,Pre-Arb,3625000,St.-Louis-Cardinals
+Jose Berrios,26,SP,Arb 1,4025000,St.-Louis-Cardinals
+Maikel Franco,27,3B,Arb 3,3340000,St.-Louis-Cardinals
+Tim Anderson,27,SS,Pre-Arb,4000000,St.-Louis-Cardinals
+Pedro Baez,32,RP,Arb 3,4000000,St.-Louis-Cardinals
+Jesse Chavez,36,RP,Vet,4000000,St.-Louis-Cardinals
+Tyler Flowers,34,C,Vet,4000000,St.-Louis-Cardinals
+Yan Gomes,32,C,Vet,4000000,St.-Louis-Cardinals
+Alex Gordon,36,LF,Vet,4000000,St.-Louis-Cardinals
+Kwang-hyun Kim,31,SP,Pre-Arb,4000000,St.-Louis-Cardinals
+Nick Markakis,36,RF,Vet,4000000,St.-Louis-Cardinals
+Ketel Marte,26,2B,Arb 2,4000000,St.-Louis-Cardinals
+Eric Sogard,34,2B,Vet,4000000,St.-Louis-Cardinals
+Alex Wood,29,RP,Vet,4000000,St.-Louis-Cardinals
+Jorge Polanco,26,SS,Arb 1,3833333,St.-Louis-Cardinals
+Hansel Robles,29,RP,Arb 3,3850000,St.-Louis-Cardinals
+Sean Manaea,28,SP,Arb 2,3750000,St.-Louis-Cardinals
+Jose Urena,28,SP,Arb 2,3750000,St.-Louis-Cardinals
+Eloy Jimenez,23,LF,Pre-Arb,2333333,St.-Louis-Cardinals
+Robbie Grossman,30,OF,Arb 3,3725000,St.-Louis-Cardinals
+Michael Lorenzen,28,RP,Arb 3,3725000,St.-Louis-Cardinals
+Lourdes Gurriel Jr.,26,LF,Pre-Arb,2928571,St.-Louis-Cardinals
+Vincent Velasquez,28,SP,Arb 2,3600000,St.-Louis-Cardinals
+Martin Maldonado,33,C,Vet,3500000,St.-Louis-Cardinals
+Jonathan Villar,29,CF,Arb 3,8200000,St.-Louis-Cardinals
+Greg Holland,34,RP,Vet,1250000,St.-Louis-Cardinals
+Michael Taylor,29,CF,Arb 3,3325000,St.-Louis-Cardinals
+Hunter Renfroe,28,RF,Arb 1,3300000,St.-Louis-Cardinals
+Adam Duvall,31,RF,Arb 2,3250000,St.-Louis-Cardinals
+Josh Lindblom,33,SP,Vet,3226666,St.-Louis-Cardinals
+Shun Yamaguchi,32,RP,Pre-Arb,3175000,St.-Louis-Cardinals
+Yoan Moncada,25,3B,Pre-Arb,1800000,St.-Louis-Cardinals
+Dansby Swanson,26,SS,Arb 1,3150000,St.-Louis-Cardinals
+Robbie Ray,28,SP,Arb 3,9430000,St.-Louis-Cardinals
+Matt Barnes,30,RP/CL,Arb 2,3100000,St.-Louis-Cardinals
+Mike Montgomery,31,SP,Arb 2,3100000,St.-Louis-Cardinals
+Byron Buxton,26,CF,Arb 2,3075000,St.-Louis-Cardinals
+Miguel Sano,27,1B,Arb 2,7000000,St.-Louis-Cardinals
+Wilmer Flores,28,2B,Vet,3000000,St.-Louis-Cardinals
+Brandon Kintzler,35,RP/CL,Vet,3000000,St.-Louis-Cardinals
+Jeff Mathis,37,C,Vet,3000000,St.-Louis-Cardinals
+Oliver Perez,38,RP,Vet,3000000,St.-Louis-Cardinals
+Eric Thames,33,1B,Vet,3000000,St.-Louis-Cardinals
+Asdrubal Cabrera,34,3B,Vet,2685000,St.-Louis-Cardinals
+Jason Castro,33,C,Vet,6850000,St.-Louis-Cardinals
+Daniel Norris,27,RP,Arb 2,2960000,St.-Louis-Cardinals
+Kyle Freeland,27,SP,Arb 1,2875000,St.-Louis-Cardinals
+Joe Panik,29,2B,Arb 3,2850000,St.-Louis-Cardinals
+Trevor Williams,28,SP,Arb 1,2825000,St.-Louis-Cardinals
+Cam Bedrosian,28,RP,Arb 3,2800000,St.-Louis-Cardinals
+Adam Frazier,28,2B,Arb 1,2800000,St.-Louis-Cardinals
+Michael Fulmer,27,SP,Arb 2,2800000,St.-Louis-Cardinals
+Joe Musgrove,27,SP,Arb 1,2800000,St.-Louis-Cardinals
+Tyler Clippard,35,RP,Vet,2750000,St.-Louis-Cardinals
+Jake Diekman,33,RP,Vet,2750000,St.-Louis-Cardinals
+Omar Narvaez,28,C,Arb 1,2725000,St.-Louis-Cardinals
+Junior Guerra,35,RP,Arb 2,2550000,St.-Louis-Cardinals
+Tyler Anderson,30,SP,Arb 2,2090000,St.-Louis-Cardinals
+Zach Eflin,26,SP,Arb 1,2625000,St.-Louis-Cardinals
+Aledmys Diaz,29,SS,Arb 1,2600000,St.-Louis-Cardinals
+Jesus Aguilar,30,1B,Arb 1,2575000,St.-Louis-Cardinals
+Jose Iglesias,30,SS,Vet,2500000,St.-Louis-Cardinals
+Hector Rondon,32,RP,Vet,2500000,St.-Louis-Cardinals
+Stephen Vogt,35,C,Vet,2500000,St.-Louis-Cardinals
+Pierce Johnson,29,RP,Pre-Arb,2185000,St.-Louis-Cardinals
+Manuel Margot,25,CF,Arb 1,2475000,St.-Louis-Cardinals
+Giovanny Urshela,28,3B,Pre-Arb,2475000,St.-Louis-Cardinals
+Robinson Chirinos,36,C,Vet,5750000,St.-Louis-Cardinals
+Chris Bassitt,31,SP,Arb 1,2250000,St.-Louis-Cardinals
+Darren O'Day,37,RP,Vet,2250000,St.-Louis-Cardinals
+Trevor May,30,RP,Arb 3,2205000,St.-Louis-Cardinals
+Orlando Arcia,25,SS,Arb 1,2200000,St.-Louis-Cardinals
+Brandon Nimmo,27,CF,Arb 1,2175000,St.-Louis-Cardinals
+Scott Kingery,26,3B,Pre-Arb,1750000,St.-Louis-Cardinals
+Tyler Glasnow,26,SP,Arb 1,2050000,St.-Louis-Cardinals
+Chad Pinder,28,LF,Arb 1,2025000,St.-Louis-Cardinals
+Trevor Cahill,32,RP,Vet,2000000,St.-Louis-Cardinals
+Sandy Leon,31,C,Arb 4,2000000,St.-Louis-Cardinals
+Seth Lugo,30,SP,Arb 1,2000000,St.-Louis-Cardinals
+Brad Miller,30,2B,Vet,2000000,St.-Louis-Cardinals
+Matt Wieters,34,C,Vet,2000000,St.-Louis-Cardinals
+Mike Minor,32,SP,Vet,9833334,St.-Louis-Cardinals
+Taijuan Walker,27,SP,Arb 4,2370370,St.-Louis-Cardinals
+Paul DeJong,26,SS,Pre-Arb,1666666,St.-Louis-Cardinals
+Tony Wolters,28,C,Arb 2,1900000,St.-Louis-Cardinals
+Delino DeShields,27,CF,Arb 2,1875000,St.-Louis-Cardinals
+Luke Jackson,28,RP,Arb 1,1825000,St.-Louis-Cardinals
+T.J. McFarland,31,RP,Arb 4,1800000,St.-Louis-Cardinals
+Kevin Pillar,31,CF,Arb 3,4250000,St.-Louis-Cardinals
+Michael Pineda,31,SP,Vet,10000000,St.-Louis-Cardinals
+Matt Joyce,35,LF,Vet,1593000,St.-Louis-Cardinals
+Yoshihisa Hirano,36,RP/CL,Pre-Arb,1655555,St.-Louis-Cardinals
+Alexander Claudio,28,RP,Arb 2,1750000,St.-Louis-Cardinals
+Mike Clevinger,29,SP,Arb 1,4100000,St.-Louis-Cardinals
+Hanser Alberto,27,2B,Arb 1,1650000,St.-Louis-Cardinals
+Jon Jay,35,RF,Vet,1550000,St.-Louis-Cardinals
+Ehire Adrianza,30,SS,Arb 4,1600000,St.-Louis-Cardinals
+Adam Morgan,30,RP,Arb 2,1575000,St.-Louis-Cardinals
+Eric Yardley,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Tommy La Stella,31,2B,Arb 3,3250000,St.-Louis-Cardinals
+Anthony Bass,32,RP,Vet,1500000,St.-Louis-Cardinals
+Greg Garcia,30,2B,Arb 2,1500000,St.-Louis-Cardinals
+Kendall Graveman,29,RP,Arb 2,1500000,St.-Louis-Cardinals
+Brandon Lowe,25,2B,Pre-Arb,1500000,St.-Louis-Cardinals
+Luis Robert,22,CF,Pre-Arb,1500000,St.-Louis-Cardinals
+David Phelps,33,RP,Vet,1612000,St.-Louis-Cardinals
+Todd Frazier,34,3B,Vet,3500000,St.-Louis-Cardinals
+Curt Casali,31,C,Arb 2,1462500,St.-Louis-Cardinals
+Tyler Naquin,29,RF,Arb 1,1450000,St.-Louis-Cardinals
+Archie Bradley,27,RP/CL,Arb 2,4100000,St.-Louis-Cardinals
+Matthew Strahm,28,RP,Arb 1,1400000,St.-Louis-Cardinals
+Mychal Givens,30,RP,Arb 2,3225000,St.-Louis-Cardinals
+Matt Andriese,30,RP,Arb 2,1395000,St.-Louis-Cardinals
+Donovan Solano,32,2B,Arb 2,1375000,St.-Louis-Cardinals
+Dinelson Lamet,27,SP,Pre-Arb,1300000,St.-Louis-Cardinals
+Evan White,24,1B,Pre-Arb,1300000,St.-Louis-Cardinals
+Chad Green,29,RP,Arb 1,1275000,St.-Louis-Cardinals
+Andrew Chafin,30,RP,Arb 3,3045000,St.-Louis-Cardinals
+Austin Hedges,27,C,Arb 2,3000000,St.-Louis-Cardinals
+Freddy Peralta,24,RP,Pre-Arb,810160,St.-Louis-Cardinals
+Tyler Duffey,29,RP,Arb 1,1200000,St.-Louis-Cardinals
+Kevin Plawecki,29,C,Arb 2,1000000,St.-Louis-Cardinals
+Buck Farmer,29,RP/CL,Arb 1,1150000,St.-Louis-Cardinals
+Nick Wittgren,29,RP,Arb 1,1125000,St.-Louis-Cardinals
+Austin Barnes,30,C,Arb 1,1100000,St.-Louis-Cardinals
+Yimi Garcia,29,RP,Arb 3,1100000,St.-Louis-Cardinals
+Mitch Moreland,34,1B,Vet,2500000,St.-Louis-Cardinals
+Carlos Estevez,27,RP,Arb 1,1080000,St.-Louis-Cardinals
+Brent Suter,30,SP,Arb 1,950000,St.-Louis-Cardinals
+Oliver Drake,33,RP,Arb 1,1025000,St.-Louis-Cardinals
+Daniel Robertson,26,SS,Arb 1,1025000,St.-Louis-Cardinals
+Ronald Acuna,22,RF,Pre-Arb,1000000,St.-Louis-Cardinals
+Ozzie Albies,23,2B,Pre-Arb,1000000,St.-Louis-Cardinals
+Brad Boxberger,32,RP,Vet,1000000,St.-Louis-Cardinals
+Aaron Bummer,26,RP,Pre-Arb,1000000,St.-Louis-Cardinals
+Drew Butera,36,C,Vet,1000000,St.-Louis-Cardinals
+Rafael Dolis,32,RP/CL,Pre-Arb,1000000,St.-Louis-Cardinals
+Marco Gonzales,28,SP,Pre-Arb,1000000,St.-Louis-Cardinals
+Jedd Gyorko,31,3B,Vet,1000000,St.-Louis-Cardinals
+Adeiny Hechavarria,31,SS,Vet,1000000,St.-Louis-Cardinals
+Derek Holland,33,RP,Vet,1000000,St.-Louis-Cardinals
+Matt Kemp,35,LF,Vet,1000000,St.-Louis-Cardinals
+Jason Kipnis,33,2B,Vet,1000000,St.-Louis-Cardinals
+Aaron Loup,32,RP,Vet,1000000,St.-Louis-Cardinals
+Josh Tomlin,35,RP,Vet,1000000,St.-Louis-Cardinals
+Julio Urias,23,SP,Pre-Arb,1000000,St.-Louis-Cardinals
+Kyle Ryan,28,RP,Pre-Arb,975000,St.-Louis-Cardinals
+David Bote,27,2B,Pre-Arb,960000,St.-Louis-Cardinals
+Josh Harrison,32,2B,Vet,1000000,St.-Louis-Cardinals
+Jarrod Dyson,35,CF,Vet,2000000,St.-Louis-Cardinals
+Alex Dickerson,30,LF,Arb 2,925000,St.-Louis-Cardinals
+Brian Goodwin,29,RF,Arb 1,2200000,St.-Louis-Cardinals
+Noe Ramirez,30,RP,Pre-Arb,900000,St.-Louis-Cardinals
+Trevor Rosenthal,30,RP/CL,Vet,2000000,St.-Louis-Cardinals
+Luis Cessa,28,RP,Pre-Arb,895000,St.-Louis-Cardinals
+Ryan Tepera,32,RP,Arb 2,900000,St.-Louis-Cardinals
+Brad Brach,34,RP,Vet,975000,St.-Louis-Cardinals
+Ji-Man Choi,29,1B,Pre-Arb,850000,St.-Louis-Cardinals
+Tommy Hunter,33,RP,Vet,850000,St.-Louis-Cardinals
+Jeremy Jeffress,32,RP,Vet,850000,St.-Louis-Cardinals
+J.T. Riddle,28,SS,Arb 1,850000,St.-Louis-Cardinals
+Chad Kuhl,27,SP,Arb 1,840000,St.-Louis-Cardinals
+Nick Vincent,33,RP,Vet,1000000,St.-Louis-Cardinals
+Wandy Peralta,28,RP,Arb 1,805000,St.-Louis-Cardinals
+Max Stassi,29,C,Arb 1,800000,St.-Louis-Cardinals
+Darin Ruf,33,1B,Pre-Arb,563500,St.-Louis-Cardinals
+Rafael Montero,29,RP/CL,Arb 2,785000,St.-Louis-Cardinals
+Richard Bleier,33,RP,Arb 1,915000,St.-Louis-Cardinals
+Erik Kratz,40,C,,1000000,St.-Louis-Cardinals
+Jonathan Holder,27,RP,Pre-Arb,750000,St.-Louis-Cardinals
+Daniel Winkler,30,RP,Arb 3,750000,St.-Louis-Cardinals
+Erik Gonzalez,28,2B,Arb 1,725000,St.-Louis-Cardinals
+Matt Wisler,27,RP,Arb 1,725000,St.-Louis-Cardinals
+Andrew Knapp,28,C,Arb 1,710000,St.-Louis-Cardinals
+Jared Hughes,34,RP,Vet,700000,St.-Louis-Cardinals
+Shohei Ohtani,25,DH,Pre-Arb,700000,St.-Louis-Cardinals
+Jesse Hahn,30,RP,Arb 2,637037,St.-Louis-Cardinals
+Niko Goodrum,28,SS,Pre-Arb,698200,St.-Louis-Cardinals
+Jordan Montgomery,27,SP,Arb 1,805000,St.-Louis-Cardinals
+Rafael Devers,23,3B,Pre-Arb,692500,St.-Louis-Cardinals
+Gleyber Torres,23,SS,Pre-Arb,675500,St.-Louis-Cardinals
+Dustin Garneau,32,C,Pre-Arb,659300,St.-Louis-Cardinals
+Luis Castillo,27,SP,Pre-Arb,663500,St.-Louis-Cardinals
+Grant Dayton,32,RP,Arb 1,655000,St.-Louis-Cardinals
+Pete Alonso,25,1B,Pre-Arb,652521,St.-Louis-Cardinals
+Scott Barlow,27,RP,Pre-Arb,650000,St.-Louis-Cardinals
+Luke Voit,29,1B,Pre-Arb,634000,St.-Louis-Cardinals
+Richard Rodriguez,30,RP/CL,Pre-Arb,633500,St.-Louis-Cardinals
+Brandon Woodruff,27,SP,Pre-Arb,633100,St.-Louis-Cardinals
+Juan Soto,21,LF,Pre-Arb,629400,St.-Louis-Cardinals
+Lucas Giolito,25,SP,Pre-Arb,627000,St.-Louis-Cardinals
+Cameron Maybin,33,RF,Vet,1500000,St.-Louis-Cardinals
+Ian Happ,25,CF,Pre-Arb,624000,St.-Louis-Cardinals
+Shane Bieber,25,SP,Pre-Arb,623200,St.-Louis-Cardinals
+Sandy Alcantara,24,SP,Pre-Arb,620000,St.-Louis-Cardinals
+Mitch Garver,29,C,Pre-Arb,620000,St.-Louis-Cardinals
+Jeff McNeil,28,3B,Pre-Arb,617676,St.-Louis-Cardinals
+Brian Anderson,27,RF,Pre-Arb,615000,St.-Louis-Cardinals
+Brad Keller,24,SP,Pre-Arb,613000,St.-Louis-Cardinals
+Hunter Dozier,28,RF,Pre-Arb,610500,St.-Louis-Cardinals
+Tyler Mahle,25,SP,Pre-Arb,609793,St.-Louis-Cardinals
+Amed Rosario,24,SS,Pre-Arb,608780,St.-Louis-Cardinals
+Jesse Winker,26,LF,Pre-Arb,605000,St.-Louis-Cardinals
+Jack Flaherty,24,SP,Pre-Arb,604500,St.-Louis-Cardinals
+Adalberto Mondesi,24,SS,Pre-Arb,604500,St.-Louis-Cardinals
+Ryne Stanek,28,RP,Pre-Arb,604200,St.-Louis-Cardinals
+Walker Buehler,25,SP,Pre-Arb,603500,St.-Louis-Cardinals
+Matt Olson,26,1B,Pre-Arb,603500,St.-Louis-Cardinals
+Mike Tauchman,29,LF,Pre-Arb,603100,St.-Louis-Cardinals
+Teoscar Hernandez,27,DH,Pre-Arb,602200,St.-Louis-Cardinals
+Alex Verdugo,24,RF,Pre-Arb,601500,St.-Louis-Cardinals
+Tony Kemp,28,2B,Pre-Arb,597100,St.-Louis-Cardinals
+Luke Weaver,26,SP,Pre-Arb,597000,St.-Louis-Cardinals
+Luis Arraez,23,2B,Pre-Arb,596000,St.-Louis-Cardinals
+Jorge Alfaro,27,C,Pre-Arb,595000,St.-Louis-Cardinals
+Jon Berti,30,2B,Pre-Arb,595000,St.-Louis-Cardinals
+Amir Garrett,28,RP,Pre-Arb,595000,St.-Louis-Cardinals
+David Fletcher,26,2B,Pre-Arb,593500,St.-Louis-Cardinals
+Dylan Floro,29,RP,Pre-Arb,593500,St.-Louis-Cardinals
+Colin Moran,27,3B,Pre-Arb,593500,St.-Louis-Cardinals
+Victor Robles,23,CF,Pre-Arb,592800,St.-Louis-Cardinals
+J.D. Davis,27,LF,Pre-Arb,592463,St.-Louis-Cardinals
+Victor Caratini,26,C,Pre-Arb,592000,St.-Louis-Cardinals
+Robert Stephenson,27,RP,Pre-Arb,592000,St.-Louis-Cardinals
+Fernando Tatis Jr.,21,SS,Pre-Arb,591800,St.-Louis-Cardinals
+Emilio Pagan,29,RP,Pre-Arb,591000,St.-Louis-Cardinals
+Josh James,27,SP,Pre-Arb,590700,St.-Louis-Cardinals
+Steven Brault,28,SP,Pre-Arb,590500,St.-Louis-Cardinals
+Brandon Brennan,28,RP,Pre-Arb,590400,St.-Louis-Cardinals
+Harrison Bader,26,CF,Pre-Arb,590100,St.-Louis-Cardinals
+Jace Fry,26,RP,Pre-Arb,590000,St.-Louis-Cardinals
+Bryan Reynolds,25,CF,Pre-Arb,589500,St.-Louis-Cardinals
+Christian Walker,29,1B,Pre-Arb,589500,St.-Louis-Cardinals
+Jarlin Garcia,27,RP,Pre-Arb,588500,St.-Louis-Cardinals
+Chris Paddack,24,SP,Pre-Arb,588500,St.-Louis-Cardinals
+Chris Stratton,29,RP,Pre-Arb,588500,St.-Louis-Cardinals
+Adam Engel,28,CF,Pre-Arb,588000,St.-Louis-Cardinals
+Jake Cave,27,RF,Pre-Arb,587500,St.-Louis-Cardinals
+Felix Pena,30,RP,Pre-Arb,587500,St.-Louis-Cardinals
+Isiah Kiner-Falefa,25,3B,Pre-Arb,587000,St.-Louis-Cardinals
+Franmil Reyes,24,DH,Pre-Arb,586400,St.-Louis-Cardinals
+Tim Hill,30,RP,Pre-Arb,585750,St.-Louis-Cardinals
+Joe Jimenez,25,RP,Pre-Arb,584900,St.-Louis-Cardinals
+Ryan Brasier,32,RP,Pre-Arb,584500,St.-Louis-Cardinals
+Silvino Bracho,27,RP,Pre-Arb,584100,St.-Louis-Cardinals
+Max Fried,26,SP,Pre-Arb,583500,St.-Louis-Cardinals
+Jeimer Candelario,26,3B,Pre-Arb,583300,St.-Louis-Cardinals
+Tyler Wade,25,2B,Pre-Arb,582800,St.-Louis-Cardinals
+Giovanny Gallegos,28,RP/CL,Pre-Arb,582400,St.-Louis-Cardinals
+Wander Suero,28,RP,Pre-Arb,582200,St.-Louis-Cardinals
+Framber Valdez,26,SP,Pre-Arb,582200,St.-Louis-Cardinals
+Keston Hiura,23,2B,Pre-Arb,582100,St.-Louis-Cardinals
+Tommy Edman,25,LF,Pre-Arb,581800,St.-Louis-Cardinals
+Carson Kelly,25,C,Pre-Arb,581700,St.-Louis-Cardinals
+Adrian Houser,27,SP,Pre-Arb,581600,St.-Louis-Cardinals
+Danny Jansen,25,C,Pre-Arb,580900,St.-Louis-Cardinals
+Jonathan Loaisiga,25,RP,Pre-Arb,580625,St.-Louis-Cardinals
+Cameron Gallagher,27,C,Pre-Arb,580500,St.-Louis-Cardinals
+Lewis Brinson,26,RF,Pre-Arb,580000,St.-Louis-Cardinals
+Garrett Cooper,29,1B,Pre-Arb,580000,St.-Louis-Cardinals
+John Means,27,SP,Pre-Arb,580000,St.-Louis-Cardinals
+Willy Adames,24,SS,Pre-Arb,579500,St.-Louis-Cardinals
+Vladimir Guerrero,21,3B,Pre-Arb,579300,St.-Louis-Cardinals
+Kyle Higashioka,30,C,Pre-Arb,579200,St.-Louis-Cardinals
+Austin Meadows,25,LF,Pre-Arb,578900,St.-Louis-Cardinals
+Dominic Smith,25,1B,Pre-Arb,578826,St.-Louis-Cardinals
+Ty Buttrey,27,RP/CL,Pre-Arb,578500,St.-Louis-Cardinals
+Ryan Yarbrough,28,SP,Pre-Arb,578500,St.-Louis-Cardinals
+Renato Nunez,26,3B,Pre-Arb,578000,St.-Louis-Cardinals
+Stefan Crichton,28,RP/CL,Pre-Arb,577500,St.-Louis-Cardinals
+Mitch Keller,24,SP,Pre-Arb,577500,St.-Louis-Cardinals
+Lucas Sims,26,RP,Pre-Arb,577500,St.-Louis-Cardinals
+Nick Anderson,29,RP/CL,Pre-Arb,577300,St.-Louis-Cardinals
+Willie Calhoun,25,LF,Pre-Arb,577000,St.-Louis-Cardinals
+Ryan O'Hearn,26,1B,Pre-Arb,576950,St.-Louis-Cardinals
+Cavan Biggio,25,2B,Pre-Arb,576600,St.-Louis-Cardinals
+Yandy Diaz,28,3B,Pre-Arb,576600,St.-Louis-Cardinals
+Pedro Severino,26,C,Pre-Arb,576000,St.-Louis-Cardinals
+Austin Slater,27,LF,Pre-Arb,576000,St.-Louis-Cardinals
+Diego Castillo,26,RP,Pre-Arb,575800,St.-Louis-Cardinals
+J.P. Crawford,25,SS,Pre-Arb,575800,St.-Louis-Cardinals
+Tyler Webb,29,RP,Pre-Arb,575800,St.-Louis-Cardinals
+Joe Wendle,30,2B,Pre-Arb,575600,St.-Louis-Cardinals
+Dylan Cease,24,SP,Pre-Arb,575000,St.-Louis-Cardinals
+Elias Diaz,29,C,Arb 1,575000,St.-Louis-Cardinals
+Mike Freeman,32,2B,Pre-Arb,575000,St.-Louis-Cardinals
+Zac Gallen,24,SP,Pre-Arb,575000,St.-Louis-Cardinals
+Philip Gosselin,31,2B,Arb 1,575000,St.-Louis-Cardinals
+Pablo Lopez,24,SP,Pre-Arb,575000,St.-Louis-Cardinals
+A.J. Minter,26,RP,Pre-Arb,575000,St.-Louis-Cardinals
+John Ryan Murphy,29,C,Arb 2,575000,St.-Louis-Cardinals
+Chasen Shreve,29,RP,Arb 3,575000,St.-Louis-Cardinals
+Alex Young,26,SP,Pre-Arb,575000,St.-Louis-Cardinals
+Adam Plutko,28,RP,Pre-Arb,574800,St.-Louis-Cardinals
+Jose Urquidy,25,SP,Pre-Arb,574600,St.-Louis-Cardinals
+Jordan Luplow,26,LF,Pre-Arb,574500,St.-Louis-Cardinals
+Tim Locastro,27,CF,Pre-Arb,574400,St.-Louis-Cardinals
+Jimmy Cordero,28,RP,Pre-Arb,574000,St.-Louis-Cardinals
+Victor Reyes,25,RF,Pre-Arb,573900,St.-Louis-Cardinals
+Abraham Toro-Hernandez,23,3B,Pre-Arb,573700,St.-Louis-Cardinals
+Shawn Armstrong,29,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Jairo Diaz,29,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Dustin May,22,SP,Pre-Arb,573500,St.-Louis-Cardinals
+Ryan McMahon,25,2B,Pre-Arb,573500,St.-Louis-Cardinals
+Frankie Montas,27,SP,Pre-Arb,573500,St.-Louis-Cardinals
+Antonio Senzatela,25,SP,Pre-Arb,573500,St.-Louis-Cardinals
+Will Smith,25,C,Pre-Arb,573500,St.-Louis-Cardinals
+Raimel Tapia,26,CF,Pre-Arb,573500,St.-Louis-Cardinals
+Spencer Turnbull,27,SP,Pre-Arb,573500,St.-Louis-Cardinals
+Tyler O'Neill,25,LF,Pre-Arb,573400,St.-Louis-Cardinals
+Mike Mayers,28,RP,Pre-Arb,573000,St.-Louis-Cardinals
+Rio Ruiz,26,3B,Pre-Arb,573000,St.-Louis-Cardinals
+Phil Maton,27,RP,Pre-Arb,572100,St.-Louis-Cardinals
+Dovydas Neverauskas,27,RP,Pre-Arb,572000,St.-Louis-Cardinals
+Myles Straw,25,CF,Pre-Arb,571300,St.-Louis-Cardinals
+Nicholas Lopez,25,2B,Pre-Arb,571250,St.-Louis-Cardinals
+Jose Cisnero,31,RP,Pre-Arb,571200,St.-Louis-Cardinals
+Franchy Cordero,25,CF,Pre-Arb,571100,St.-Louis-Cardinals
+Michael Chavis,24,2B,Pre-Arb,571000,St.-Louis-Cardinals
+Kyle Farmer,29,C,Pre-Arb,571000,St.-Louis-Cardinals
+Paul Fry,27,RP,Pre-Arb,571000,St.-Louis-Cardinals
+Chance Sisco,25,C,Pre-Arb,571000,St.-Louis-Cardinals
+Cody Stashak,26,RP,Pre-Arb,571000,St.-Louis-Cardinals
+Harold Castro,26,3B,Pre-Arb,570700,St.-Louis-Cardinals
+Griffin Canning,24,SP,Pre-Arb,570500,St.-Louis-Cardinals
+Brett Martin,25,RP,Pre-Arb,570500,St.-Louis-Cardinals
+Bo Bichette,22,SS,Pre-Arb,570000,St.-Louis-Cardinals
+Corbin Burnes,25,SP,Pre-Arb,570000,St.-Louis-Cardinals
+Austin Gomber,26,SP,Pre-Arb,570000,St.-Louis-Cardinals
+Tzu-Wei Lin,26,SS,Pre-Arb,570000,St.-Louis-Cardinals
+Nick Senzel,25,3B,Pre-Arb,570000,St.-Louis-Cardinals
+Mike Yastrzemski,29,RF,Pre-Arb,569750,St.-Louis-Cardinals
+Adam Haseley,24,CF,Pre-Arb,569500,St.-Louis-Cardinals
+Alec Mills,28,SP,Pre-Arb,569500,St.-Louis-Cardinals
+Ryan Helsley,25,RP,Pre-Arb,569000,St.-Louis-Cardinals
+Roman Quinn,27,CF,Pre-Arb,569000,St.-Louis-Cardinals
+Austin Voth,28,SP,Pre-Arb,568900,St.-Louis-Cardinals
+Luis Urias,23,2B,Pre-Arb,568800,St.-Louis-Cardinals
+Kyle Tucker,23,LF,Pre-Arb,568700,St.-Louis-Cardinals
+Garrett Hampson,25,2B,Pre-Arb,568500,St.-Louis-Cardinals
+Jeff Hoffman,27,RP,Pre-Arb,568500,St.-Louis-Cardinals
+Tyler Kinley,29,RP,Pre-Arb,568500,St.-Louis-Cardinals
+Ramon Laureano,25,OF,Pre-Arb,568500,St.-Louis-Cardinals
+Austin Riley,23,3B,Pre-Arb,568500,St.-Louis-Cardinals
+Tanner Scott,25,RP,Pre-Arb,568500,St.-Louis-Cardinals
+Lou Trivino,28,RP,Pre-Arb,568500,St.-Louis-Cardinals
+Cy Sneed,27,RP,Pre-Arb,568300,St.-Louis-Cardinals
+Gregory Soto,25,RP,Pre-Arb,567800,St.-Louis-Cardinals
+Erik Swanson,26,RP,Pre-Arb,567600,St.-Louis-Cardinals
+Austin Hays,24,CF,Pre-Arb,567500,St.-Louis-Cardinals
+Trent Grisham,23,CF,Pre-Arb,566800,St.-Louis-Cardinals
+Mauricio Dubon,25,2B,Pre-Arb,566625,St.-Louis-Cardinals
+Logan Webb,23,SP,Pre-Arb,566625,St.-Louis-Cardinals
+Tyler Alexander,25,RP,Pre-Arb,566600,St.-Louis-Cardinals
+Michael Perez,27,C,Pre-Arb,566600,St.-Louis-Cardinals
+Justus Sheffield,24,SP,Pre-Arb,566300,St.-Louis-Cardinals
+Devin Williams,25,RP,Pre-Arb,566300,St.-Louis-Cardinals
+Ray Black,30,RP,Pre-Arb,566200,St.-Louis-Cardinals
+Brusdar Graterol,21,SP,Pre-Arb,566000,St.-Louis-Cardinals
+Darwinzon Hernandez,23,RP,Pre-Arb,566000,St.-Louis-Cardinals
+Travis Lakins,26,RP,Pre-Arb,566000,St.-Louis-Cardinals
+Rangel Ravelo,28,1B,Pre-Arb,566000,St.-Louis-Cardinals
+Edwin Rios,26,1B,Pre-Arb,566000,St.-Louis-Cardinals
+Josh Staumont,26,RP,Pre-Arb,565950,St.-Louis-Cardinals
+Yency Almonte,26,RP,Pre-Arb,565500,St.-Louis-Cardinals
+Nick Solak,25,2B,Pre-Arb,565500,St.-Louis-Cardinals
+Hunter Harvey,25,RP,Pre-Arb,565000,St.-Louis-Cardinals
+Nico Hoerner,23,SS,Pre-Arb,565000,St.-Louis-Cardinals
+Kyle Lewis,24,LF,Pre-Arb,565000,St.-Louis-Cardinals
+Cole Sulser,30,RP,Pre-Arb,565000,St.-Louis-Cardinals
+Duane Underwood,25,RP,Pre-Arb,565000,St.-Louis-Cardinals
+Tyler Rogers,29,RP,Pre-Arb,564750,St.-Louis-Cardinals
+Pete Fairbanks,26,RP,Pre-Arb,564700,St.-Louis-Cardinals
+Justin Dunn,24,SP,Pre-Arb,564500,St.-Louis-Cardinals
+Jonathan Hernandez,23,RP,Pre-Arb,564500,St.-Louis-Cardinals
+Bryan Garcia,25,RP,Pre-Arb,564400,St.-Louis-Cardinals
+Ryan Weber,29,RP,Pre-Arb,600000,St.-Louis-Cardinals
+Nick Margevicius,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Kolby Allard,22,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jonathan Arauz,21,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Caleb Baragar,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Daniel Bard,35,RP/CL,Arb 1,563500,St.-Louis-Cardinals
+Jacob Barnes,30,RP,Arb 1,563500,St.-Louis-Cardinals
+JT Brubaker,26,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Aaron Civale,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Taylor Clarke,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+A.J. Cole,28,RP,Arb 1,563500,St.-Louis-Cardinals
+Jake Cronenworth,26,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Austin Dean,26,LF,Pre-Arb,563500,St.-Louis-Cardinals
+Erick Fedde,27,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Kyle Finnegan,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Rony Garcia,22,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Thomas Hatch,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Codi Heuer,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Cristian Javier,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+James Karinchak,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jesus Luzardo,22,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Vimael Machin,26,2B,Pre-Arb,563500,St.-Louis-Cardinals
+Jorge Mateo,25,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Tyler Matzek,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jake McGee,33,RP,Vet,563500,St.-Louis-Cardinals
+Hoby Milner,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Anthony Misiewicz,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Sean Murphy,25,C,Pre-Arb,563500,St.-Louis-Cardinals
+Enoli Paredes,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Yohan Ramirez,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Magneuris Sierra,24,CF,Pre-Arb,563500,St.-Louis-Cardinals
+Stephen Tarpley,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Blake Taylor,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Nik Turley,30,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Pat Valaika,27,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Phillips Valdez,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Chad Wallach,28,C,Pre-Arb,563500,St.-Louis-Cardinals
+Kodi Whitley,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Taylor Widener,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Tyler Zuber,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Michael Brosseau,26,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Ryan Thompson,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Brady Singer,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Jake Junis,27,SP,Pre-Arb,608000,St.-Louis-Cardinals
+Reynaldo Lopez,26,SP,Pre-Arb,605000,St.-Louis-Cardinals
+Ryan Borucki,26,RP,Pre-Arb,573800,St.-Louis-Cardinals
+Sam Hilliard,26,CF,Pre-Arb,565500,St.-Louis-Cardinals
+Tejay Antone,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jake Newberry,25,RP,Pre-Arb,571500,St.-Louis-Cardinals
+James Hoyt,33,RP,Pre-Arb,608500,St.-Louis-Cardinals
+Nate Pearson,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Geoff Hartlieb,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+David Peterson,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Andre Scrubb,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Luis Guillorme,25,SS,Pre-Arb,566054,St.-Louis-Cardinals
+Adam Kolarek,31,RP,Pre-Arb,583500,St.-Louis-Cardinals
+Matt Foster,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Cedric Mullins,25,CF,Pre-Arb,563500,St.-Louis-Cardinals
+Jake Woodford,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Bryan Holaday,32,C,Arb 3,575000,St.-Louis-Cardinals
+Thomas Eshelman,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jimmy Herget,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Sam Selman,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Kris Bubic,22,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Nick Madrigal,23,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Daulton Varsho,23,C,Pre-Arb,563500,St.-Louis-Cardinals
+Ranger Suarez,24,RP,Pre-Arb,570000,St.-Louis-Cardinals
+Yoan Lopez,27,RP,Pre-Arb,578100,St.-Louis-Cardinals
+Jorge Alcala,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jack Mayfield,29,2B,Pre-Arb,563500,St.-Louis-Cardinals
+Jordan Weems,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Sam Howard,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Timmy Lopes,26,2B,Pre-Arb,566700,St.-Louis-Cardinals
+Jordon Adell,21,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Cam Hill,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Caleb Thielbar,33,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Alexander Reyes,25,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Joey Gerber,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Josh Fuentes,27,1B,Pre-Arb,565500,St.-Louis-Cardinals
+Genesis Cabrera,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Oscar Mercado,25,CF,Pre-Arb,573400,St.-Louis-Cardinals
+Marcus Walden,31,RP,Pre-Arb,579500,St.-Louis-Cardinals
+Clint Frazier,25,OF,Pre-Arb,588100,St.-Louis-Cardinals
+Nick Nelson,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Miguel Castro,25,RP,Arb 1,1050000,St.-Louis-Cardinals
+Ryan Castellani,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Nick Heath,26,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Taylor Ward,26,3B,Pre-Arb,566500,St.-Louis-Cardinals
+Jose Osuna,27,1B,Pre-Arb,589500,St.-Louis-Cardinals
+Jorge Lopez,27,SP,Pre-Arb,586750,St.-Louis-Cardinals
+Zach Plesac,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Adam Cimber,29,RP,Pre-Arb,581500,St.-Louis-Cardinals
+John Curtiss,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Spencer Howard,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Joseph Odom,28,C,Pre-Arb,563500,St.-Louis-Cardinals
+Taylor Hearn,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Brady Lail,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Brooks Raley,32,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Derek Dietrich,30,2B,Arb 4,575000,St.-Louis-Cardinals
+Kyle Wright,24,SP,Pre-Arb,573500,St.-Louis-Cardinals
+Devin Smeltzer,24,RP,Pre-Arb,571000,St.-Louis-Cardinals
+Chance Adams,25,RP,Pre-Arb,565750,St.-Louis-Cardinals
+Wes Benjamin,26,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Blake Parker,35,RP,Arb 3,563500,St.-Louis-Cardinals
+Kevan Smith,32,C,Arb 1,575000,St.-Louis-Cardinals
+Christian Arroyo,25,SS,Pre-Arb,565500,St.-Louis-Cardinals
+Jose Marmolejos,27,1B,Pre-Arb,563500,St.-Louis-Cardinals
+Alec Bohm,23,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Victor Gonzalez,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Ashton Goudeau,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Drew Rasmussen,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Ryne Harper,31,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Dylan Carlson,21,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Luis Garcia,20,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Shaun Anderson,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Anthony Bemboom,30,C,Pre-Arb,563500,St.-Louis-Cardinals
+Ljay Newsome,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Jared Walsh,26,1B,Pre-Arb,563500,St.-Louis-Cardinals
+Casey Mize,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Corey Oswalt,26,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Isaac Paredes,21,INF,Pre-Arb,563500,St.-Louis-Cardinals
+JoJo Romero,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Tarik Skubal,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Aaron Slegers,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+D.J. Stewart,26,RF,Pre-Arb,567500,St.-Louis-Cardinals
+Adrian Morejon,21,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Leodys Taveras,21,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Ronald Guzman,25,1B,Pre-Arb,588000,St.-Louis-Cardinals
+Aristides Aquino,26,RF,Pre-Arb,563500,St.-Louis-Cardinals
+Jorge Bonifacio,27,RF,Pre-Arb,563500,St.-Louis-Cardinals
+Chris Mazza,30,RP,Pre-Arb,566000,St.-Louis-Cardinals
+Patrick Sandoval,23,RP,Pre-Arb,565750,St.-Louis-Cardinals
+Joey Bart,23,C,Pre-Arb,563500,St.-Louis-Cardinals
+Kyle Cody,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Seth Elledge,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Ryan Jeffers,23,C,Pre-Arb,563500,St.-Louis-Cardinals
+Sixto Sanchez,21,SP,Pre-Arb,563500,St.-Louis-Cardinals
+David Hale,32,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Keegan Akin,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Monte Harrison,24,CF,Pre-Arb,563500,St.-Louis-Cardinals
+Ryan Mountcastle,23,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Jose Ruiz,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Anthony Gonsolin,26,SP,Pre-Arb,566000,St.-Louis-Cardinals
+Josh Fleming,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Triston McKenzie,22,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jacob Nottingham,25,C,Pre-Arb,563500,St.-Louis-Cardinals
+Jace Peterson,30,3B,Arb 3,563500,St.-Louis-Cardinals
+Nicholas Tropeano,29,RP,Arb 2,575000,St.-Louis-Cardinals
+Billy Hamilton,29,CF,Vet,1000000,St.-Louis-Cardinals
+Jason Adam,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jonah Heim,25,C,Pre-Arb,563500,St.-Louis-Cardinals
+Riley Smith,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Anderson Tejeda,22,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Ian Anderson,22,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Tyler Heineman,29,C,Pre-Arb,563500,St.-Louis-Cardinals
+Trevor Rogers,22,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Jose Israel Garcia,22,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Johan Oviedo,22,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Cesar Valdez,35,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Gavin Lux,22,2B,Pre-Arb,566000,St.-Louis-Cardinals
+Daniel Castano,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Connor Brogdon,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Dane Dunning,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Brock Holt,32,2B,Vet,563500,St.-Louis-Cardinals
+Luis Garcia,23,RP,Pre-Arb,18690,St.-Louis-Cardinals
+Ross Stripling,30,RP,Arb 1,600000,St.-Louis-Cardinals
+Dylan Covey,28,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Dan Altavilla,27,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Austin Adams,33,RP,Pre-Arb,570900,St.-Louis-Cardinals
+Austin Nola,30,C,Pre-Arb,570800,St.-Louis-Cardinals
+Ty France,25,3B,Pre-Arb,567100,St.-Louis-Cardinals
+Caleb Smith,28,SP,Pre-Arb,586500,St.-Louis-Cardinals
+Randy Arozarena,25,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Luke Bard,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Bobby Dalbec,25,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Carlos Hernandez,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Yolmer Sanchez,28,3B,Arb 3,575000,St.-Louis-Cardinals
+Cal Quantrill,25,SP,Pre-Arb,571800,St.-Louis-Cardinals
+Josh Naylor,23,1B,Pre-Arb,568500,St.-Louis-Cardinals
+Steven Duggar,26,CF,Pre-Arb,563500,St.-Louis-Cardinals
+David Hess,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Mike Kickham,31,SP,Arb 3,563500,St.-Louis-Cardinals
+Walker Lockett,26,RP,Pre-Arb,566025,St.-Louis-Cardinals
+Jazz Chisholm,22,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Rico Garcia,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Ke'Bryan Hayes,23,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Keury Mella,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Eli White,26,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Bryse Wilson,22,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Tyrone Taylor,26,CF,Pre-Arb,565300,St.-Louis-Cardinals
+Derek Hill,24,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Joe Hudson,29,C,Pre-Arb,563500,St.-Louis-Cardinals
+Kyle McGowin,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Andrew Triggs,31,RP,Arb 1,563500,St.-Louis-Cardinals
+Dan Vogelbach,27,DH,Pre-Arb,580900,St.-Louis-Cardinals
+Edward Olivares,24,OF,Pre-Arb,563500,St.-Louis-Cardinals
+John King,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Phillip Ervin,27,CF,Pre-Arb,573500,St.-Louis-Cardinals
+Andrew Stevenson,26,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Wyatt Mathisen,26,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Casey Sadler,29,RP,Pre-Arb,577500,St.-Louis-Cardinals
+Jonathan Davis,28,CF,Pre-Arb,569000,St.-Louis-Cardinals
+Ben Braymer,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Deivi Garcia,21,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Nivaldo Rodriguez,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jacob Webb,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Josh VanMeter,25,2B,Pre-Arb,568500,St.-Louis-Cardinals
+Daz Cameron,23,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Sergio Alcantara,23,2B,Pre-Arb,563500,St.-Louis-Cardinals
+Braden Bishop,26,CF,Pre-Arb,563500,St.-Louis-Cardinals
+Sam Huff,22,C,Pre-Arb,563500,St.-Louis-Cardinals
+Nick Ramirez,30,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Pavin Smith,24,1B,Pre-Arb,563500,St.-Louis-Cardinals
+Justin Topa,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Austin Davis,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Ramon Urias,26,2B,Pre-Arb,575000,St.-Louis-Cardinals
+Yadiel Hernandez,32,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Alejandro Kirk,21,C,Pre-Arb,563500,St.-Louis-Cardinals
+Domingo Tapia,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Sal Romano,26,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Rafael Marchan,21,C,Pre-Arb,563500,St.-Louis-Cardinals
+Nate Orf,30,2B,Pre-Arb,563500,St.-Louis-Cardinals
+Jake Lamb,29,1B,Arb 3,563500,St.-Louis-Cardinals
+Jake Noll,26,2B,Pre-Arb,563500,St.-Louis-Cardinals
+Eric Haase,27,C,Pre-Arb,565400,St.-Louis-Cardinals
+Blake Cederlind,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Demarcus Evans,23,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Tanner Houck,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Guillermo Heredia,29,CF,Arb 1,1000000,St.-Louis-Cardinals
+Adbert Alzolay,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Clarke Schmidt,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+T.J. Zeuch,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Bruce Zimmerman,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Ryan Cordell,28,LF,Pre-Arb,575000,St.-Louis-Cardinals
+Garrett Crochet,21,P,Pre-Arb,563500,St.-Louis-Cardinals
+Branden Kline,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Patrick Murphy,25,P,Pre-Arb,563500,St.-Louis-Cardinals
+A.J. Ramos,33,RP,Vet,575000,St.-Louis-Cardinals
+Richard Lovelady,24,RP,Pre-Arb,567100,St.-Louis-Cardinals
+Wil Crowe,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Cesar Puello,29,RF,Pre-Arb,563500,St.-Louis-Cardinals
+Jose Mujica,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Paolo Espino,33,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jared Oliva,24,CF,Pre-Arb,563500,St.-Louis-Cardinals
+Nick Pivetta,27,RP,Pre-Arb,588000,St.-Louis-Cardinals
+Brandon Dixon,28,1B,Pre-Arb,575000,St.-Louis-Cardinals
+Elliot Soto,30,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Tommy Doyle,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jahmai Jones,22,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Andrew Romine,34,SS,Vet,575000,St.-Louis-Cardinals
+Andrew Susac,30,C,Arb 1,575000,St.-Louis-Cardinals
+Brailyn Marquez,21,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Pablo Sandoval,33,3B,Vet,563500,St.-Louis-Cardinals
+Nolan Arenado,29,3B,Vet,35025000,St.-Louis-Cardinals
+Justin Verlander,37,SP,Vet,33000000,St.-Louis-Cardinals
+Stephen Strasburg,31,SP,Vet,35000000,St.-Louis-Cardinals
+Chris Davis,34,1B,Vet,21065362,St.-Louis-Cardinals
+Chris Sale,31,SP,Vet,30000000,St.-Louis-Cardinals
+Jake Arrieta,34,SP,Vet,20000000,St.-Louis-Cardinals
+Miles Mikolas,31,SP,Arb 1,16750000,St.-Louis-Cardinals
+Cole Hamels,36,SP,Vet,18000000,St.-Louis-Cardinals
+Jake Odorizzi,30,SP,Vet,17800000,St.-Louis-Cardinals
+Corey Kluber,34,SP,Vet,17500000,St.-Louis-Cardinals
+Ian Kennedy,35,RP,Vet,16500000,St.-Louis-Cardinals
+Jed Lowrie,36,2B,Vet,11500000,St.-Louis-Cardinals
+Elvis Andrus,31,SS,Vet,15250000,St.-Louis-Cardinals
+Tyler Chatwood,30,SP,Vet,13000000,St.-Louis-Cardinals
+Dustin Pedroia,36,2B,Vet,13125000,St.-Louis-Cardinals
+James Paxton,31,SP,Arb 4,12500000,St.-Louis-Cardinals
+Carlos Martinez,28,SP,Vet,11700000,St.-Louis-Cardinals
+Luis Severino,26,SP,Arb 2,10500000,St.-Louis-Cardinals
+David Robertson,35,RP,Vet,11000000,St.-Louis-Cardinals
+Roberto Osuna,25,RP/CL,Arb 3,10000000,St.-Louis-Cardinals
+Noah Syndergaard,27,SP,Arb 3,9700000,St.-Louis-Cardinals
+Ken Giles,29,RP/CL,Arb 3,9600000,St.-Louis-Cardinals
+Adam Eaton,31,RF,Vet,9500000,St.-Louis-Cardinals
+Chris Archer,31,SP,Vet,9000000,St.-Louis-Cardinals
+Eduardo Rodriguez,27,SP,Arb 3,8300000,St.-Louis-Cardinals
+Michael Conforto,27,RF,Arb 2,8000000,St.-Louis-Cardinals
+Kirby Yates,33,RP/CL,Arb 3,7062500,St.-Louis-Cardinals
+Sean Doolittle,33,RP/CL,Vet,6500000,St.-Louis-Cardinals
+C.J. Cron,30,1B,Arb 3,6100000,St.-Louis-Cardinals
+Jonathan Schoop,28,2B,Vet,6100000,St.-Louis-Cardinals
+Starlin Castro,30,2B,Vet,6000000,St.-Louis-Cardinals
+Jon Gray,28,SP,Arb 2,5600000,St.-Louis-Cardinals
+Trey Mancini,28,RF,Arb 1,4750000,St.-Louis-Cardinals
+Howie Kendrick,36,2B,Vet,4000000,St.-Louis-Cardinals
+Brad Peacock,32,RP,Arb 4,3900000,St.-Louis-Cardinals
+Keone Kela,27,RP/CL,Arb 3,3725000,St.-Louis-Cardinals
+Daniel Santana,29,CF,Arb 3,3600000,St.-Louis-Cardinals
+Jose Leclerc,26,RP/CL,Arb 1,2750000,St.-Louis-Cardinals
+Andrew Benintendi,25,LF,Arb 1,3400000,St.-Louis-Cardinals
+Jake Marisnick,29,CF,Arb 4,3312500,St.-Louis-Cardinals
+Leury Garcia,29,OF,Arb 3,3250000,St.-Louis-Cardinals
+Mitch Haniger,29,RF,Arb 1,3010000,St.-Louis-Cardinals
+Merrill Kelly,31,SP,Pre-Arb,3000000,St.-Louis-Cardinals
+Jose Alvarez,31,RP,Arb 3,2950000,St.-Louis-Cardinals
+Tommy Kahnle,30,RP,Arb 3,2650000,St.-Louis-Cardinals
+Daniel Descalso,33,2B,Vet,2500000,St.-Louis-Cardinals
+Joely Rodriguez,28,RP,Arb 1,2500000,St.-Louis-Cardinals
+David Dahl,26,CF,Arb 1,2475000,St.-Louis-Cardinals
+Jameson Taillon,28,SP,Arb 1,2250000,St.-Louis-Cardinals
+Chaz Roe,33,RP,Arb 2,2185200,St.-Louis-Cardinals
+Wade LeBlanc,35,SP,Vet,800000,St.-Louis-Cardinals
+Francisco Cervelli,34,C,Vet,2000000,St.-Louis-Cardinals
+Chris Devenski,29,RP,Arb 2,2000000,St.-Louis-Cardinals
+Scott Oberg,30,RP,Arb 2,2000000,St.-Louis-Cardinals
+Roenis Elias,31,RP,Arb 2,1975000,St.-Louis-Cardinals
+Manuel Pina,33,C,Arb 2,1850000,St.-Louis-Cardinals
+Ivan Nova,33,SP,Vet,1593000,St.-Louis-Cardinals
+Jacoby Jones,28,CF,Arb 1,1575000,St.-Louis-Cardinals
+Zack Godley,30,SP,Arb 1,1500000,St.-Louis-Cardinals
+Ben Gamel,28,LF,Arb 1,1400000,St.-Louis-Cardinals
+John Gant,27,RP,Arb 1,1300000,St.-Louis-Cardinals
+Eduardo Nunez,33,3B,Vet,1250000,St.-Louis-Cardinals
+Robert Gsellman,26,RP,Arb 1,1225000,St.-Louis-Cardinals
+Michael Feliz,27,RP,Arb 2,1100000,St.-Louis-Cardinals
+Evan Marshall,30,RP,Arb 1,1100000,St.-Louis-Cardinals
+Javy Guerra,34,RP,Arb 1,1000000,St.-Louis-Cardinals
+Rene Rivera,36,C,Vet,1000000,St.-Louis-Cardinals
+Edinson Volquez,36,RP,Vet,1000000,St.-Louis-Cardinals
+C.J. Edwards,28,RP,Arb 2,950000,St.-Louis-Cardinals
+Luke Maile,29,C,Arb 1,900000,St.-Louis-Cardinals
+Matthew Bowman,29,RP,Arb 1,865000,St.-Louis-Cardinals
+Jimmy Nelson,31,RP,Arb 3,750000,St.-Louis-Cardinals
+Burch Smith,30,RP,Pre-Arb,680000,St.-Louis-Cardinals
+Matt Chapman,27,3B,Pre-Arb,623500,St.-Louis-Cardinals
+Yordan Alvarez,23,DH,Pre-Arb,607000,St.-Louis-Cardinals
+Rhys Hoskins,27,1B,Pre-Arb,605000,St.-Louis-Cardinals
+Glenn Sparkman,28,SP,Pre-Arb,604500,St.-Louis-Cardinals
+Kyle Crick,27,RP/CL,Pre-Arb,590000,St.-Louis-Cardinals
+Kevin Newman,26,SS,Pre-Arb,589000,St.-Louis-Cardinals
+Trevor Gott,27,RP,Pre-Arb,588500,St.-Louis-Cardinals
+Reyes Moronta,27,RP,Pre-Arb,588500,St.-Louis-Cardinals
+John Brebbia,30,RP,Pre-Arb,587600,St.-Louis-Cardinals
+Jacob Stallings,30,C,Pre-Arb,586500,St.-Louis-Cardinals
+Austin Pruitt,30,RP,Pre-Arb,584900,St.-Louis-Cardinals
+Caleb Ferguson,23,RP,Pre-Arb,583500,St.-Louis-Cardinals
+Michael Soroka,22,SP,Pre-Arb,583500,St.-Louis-Cardinals
+Trent Thornton,26,SP,Pre-Arb,581900,St.-Louis-Cardinals
+Dakota Hudson,25,SP,Pre-Arb,580500,St.-Louis-Cardinals
+Harold Ramirez,25,RF,Pre-Arb,580000,St.-Louis-Cardinals
+Derek Fisher,26,RF,Pre-Arb,579600,St.-Louis-Cardinals
+Rowdy Tellez,25,1B,Pre-Arb,579600,St.-Louis-Cardinals
+Clay Holmes,27,RP,Pre-Arb,579500,St.-Louis-Cardinals
+Tom Murphy,29,C,Pre-Arb,577300,St.-Louis-Cardinals
+Justin Anderson,27,RP,Pre-Arb,577000,St.-Louis-Cardinals
+Drew Steckenrider,29,RP,Pre-Arb,577000,St.-Louis-Cardinals
+Josh Taylor,27,RP,Pre-Arb,577000,St.-Louis-Cardinals
+Tomas Nido,26,C,Pre-Arb,576826,St.-Louis-Cardinals
+Yonny Chirinos,26,RP,Pre-Arb,576700,St.-Louis-Cardinals
+Logan Forsythe,33,2B,Vet,575000,St.-Louis-Cardinals
+Sam Freeman,33,RP,Arb 3,575000,St.-Louis-Cardinals
+Matt Magill,30,RP/CL,Pre-Arb,574900,St.-Louis-Cardinals
+Nick Burdi,27,RP,Pre-Arb,574500,St.-Louis-Cardinals
+Austin Brice,28,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Jeremy Walker,25,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Jose Alvarado,25,RP,Pre-Arb,573100,St.-Louis-Cardinals
+Anthony Santander,25,LF,Pre-Arb,572500,St.-Louis-Cardinals
+Jalen Beeks,26,RP,Pre-Arb,572400,St.-Louis-Cardinals
+Tanner Rainey,27,RP,Pre-Arb,572200,St.-Louis-Cardinals
+Seranthony Dominguez,25,RP,Pre-Arb,571500,St.-Louis-Cardinals
+Elieser Hernandez,25,SP,Pre-Arb,571500,St.-Louis-Cardinals
+Rowan Wick,27,RP,Pre-Arb,571500,St.-Louis-Cardinals
+Brad Wieck,28,RP,Pre-Arb,571500,St.-Louis-Cardinals
+Trey Wingenter,26,RP,Pre-Arb,571300,St.-Louis-Cardinals
+Andrew Kittredge,30,RP,Pre-Arb,571200,St.-Louis-Cardinals
+Elvis Luciano,20,RP,Pre-Arb,570800,St.-Louis-Cardinals
+Kevin Kramer,26,SS,Pre-Arb,570500,St.-Louis-Cardinals
+Dylan Moore,27,SS,Pre-Arb,570100,St.-Louis-Cardinals
+Jose Castillo,24,RP,Pre-Arb,569800,St.-Louis-Cardinals
+Tyler Beede,27,SP,Pre-Arb,569750,St.-Louis-Cardinals
+Colten Brewer,27,RP,Pre-Arb,569500,St.-Louis-Cardinals
+Rogelio Armenteros,26,SP,Pre-Arb,569100,St.-Louis-Cardinals
+Nestor Cortes,25,RP,Pre-Arb,568700,St.-Louis-Cardinals
+J.B. Wendelken,27,RP,Pre-Arb,568500,St.-Louis-Cardinals
+Colin Poche,26,RP,Pre-Arb,568400,St.-Louis-Cardinals
+Bubba Starling,27,CF,Pre-Arb,568250,St.-Louis-Cardinals
+Richie Martin,25,SS,Pre-Arb,568000,St.-Louis-Cardinals
+Jordan Romano,27,RP,Pre-Arb,567800,St.-Louis-Cardinals
+Shed Long,24,2B,Pre-Arb,567600,St.-Louis-Cardinals
+Sam Coonrod,27,RP,Pre-Arb,566625,St.-Louis-Cardinals
+Aramis Garcia,27,C,Pre-Arb,566625,St.-Louis-Cardinals
+Jefry Rodriguez,26,RP,Pre-Arb,566000,St.-Louis-Cardinals
+Corbin Martin,24,SP,Pre-Arb,565700,St.-Louis-Cardinals
+Dillon Tate,26,RP,Pre-Arb,565000,St.-Louis-Cardinals
+Javier Guerra,24,RP,Pre-Arb,564800,St.-Louis-Cardinals
+Brock Burke,23,SP,Pre-Arb,564500,St.-Louis-Cardinals
+Gerson Bautista,25,SP,Pre-Arb,564100,St.-Louis-Cardinals
+Yennsy Diaz,23,SP,Pre-Arb,564000,St.-Louis-Cardinals
+James Norwood,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Nick Gordon,24,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Dario Agrazal,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Jeff Brigham,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Anderson Espinoza,22,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Phillip Evans,27,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Andres Gimenez,21,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Foster Griffin,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jordan Holloway,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jimmy Lambert,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Chris Owings,28,2B,Vet,563500,St.-Louis-Cardinals
+Joe Palumbo,25,RP,Pre-Arb,563500,St.-Louis-Cardinals
+A.J. Puk,25,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Cole Tucker,23,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Kyle Zimmer,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Luis Rengifo,23,SS,Pre-Arb,570000,St.-Louis-Cardinals
+Mike Morin,29,RP,Arb 3,575000,St.-Louis-Cardinals
+Chadwick Tromp,25,C,Pre-Arb,563500,St.-Louis-Cardinals
+Jose Trevino,27,C,Pre-Arb,565500,St.-Louis-Cardinals
+Yacksel Rios,27,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Josh A. Smith,32,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Carter Kieboom,22,3B,Pre-Arb,564700,St.-Louis-Cardinals
+Joe Harvey,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Brian Moran,31,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Taylor Guilbeau,27,RP,Pre-Arb,565500,St.-Louis-Cardinals
+Pat Venditte,35,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Tom Milone,33,SP,Vet,1000000,St.-Louis-Cardinals
+Jacob Waguespack,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Jeremy Beasley,24,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Willi Castro,23,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Kyle Hart,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Seth Romero,24,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Tyler Thornburg,31,RP,Vet,575000,St.-Louis-Cardinals
+Dakota Bacus,29,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Ricardo Sanchez,23,SP,Pre-Arb,563500,St.-Louis-Cardinals
+Matt Harvey,31,RP,Vet,575000,St.-Louis-Cardinals
+Kyle Garlick,28,RF,Pre-Arb,564500,St.-Louis-Cardinals
+Tyler Bashlor,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Julian Merryweather,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Brendan Rodgers,23,SS,Pre-Arb,565500,St.-Louis-Cardinals
+Sam Haggerty,26,2B,Pre-Arb,563800,St.-Louis-Cardinals
+Brandon Leibrandt,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Josh Rojas,26,2B,Pre-Arb,568800,St.-Louis-Cardinals
+James Bourque,26,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Evan Phillips,25,RP,Pre-Arb,566500,St.-Louis-Cardinals
+Jesse Biddle,28,RP,Pre-Arb,575000,St.-Louis-Cardinals
+Ben Heller,28,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Joey Rickard,29,LF,Pre-Arb,563500,St.-Louis-Cardinals
+Heath Hembree,31,RP,Arb 2,1612500,St.-Louis-Cardinals
+Franklin Barreto,24,SS,Pre-Arb,568500,St.-Louis-Cardinals
+Andres Munoz,21,RP,Pre-Arb,566300,St.-Louis-Cardinals
+Yairo Munoz,25,SS,Pre-Arb,575000,St.-Louis-Cardinals
+Cody Reed,27,RP,Pre-Arb,573500,St.-Louis-Cardinals
+Luis Torrens,24,C,Pre-Arb,568800,St.-Louis-Cardinals
+Jose De Leon,27,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Anthony Alford,25,OF,Pre-Arb,566800,St.-Louis-Cardinals
+Luis Campusano,21,C,Pre-Arb,563500,St.-Louis-Cardinals
+Jason Martin,24,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Erasmo Ramirez,30,RP,Vet,563500,St.-Louis-Cardinals
+Brent Rooker,25,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Ildemaro Vargas,28,2B,Pre-Arb,572600,St.-Louis-Cardinals
+Luis Alexander Basabe,23,OF,Pre-Arb,563500,St.-Louis-Cardinals
+Jake Fraley,25,RF,Pre-Arb,563800,St.-Louis-Cardinals
+Isan Diaz,24,2B,Pre-Arb,563500,St.-Louis-Cardinals
+Sherten Apostel,21,3B,Pre-Arb,563500,St.-Louis-Cardinals
+Aaron Barrett,32,RP,Pre-Arb,563500,St.-Louis-Cardinals
+Manuel Rodriguez,23,P,Pre-Arb,563500,St.-Louis-Cardinals
+Felipe Vazquez,28,RP/CL,Arb 3,5750000,St.-Louis-Cardinals
+Emmanuel Clase,22,RP,Pre-Arb,564800,St.-Louis-Cardinals
+Domingo Leyba,24,SS,Pre-Arb,563500,St.-Louis-Cardinals
+Tres Barrera,25,C,Pre-Arb,0,St.-Louis-Cardinals
+Kent Emanuel,28,P,Pre-Arb,0,St.-Louis-Cardinals
+Justin Lawrence,25,RP,Pre-Arb,0,St.-Louis-Cardinals
+Francis Martes,24,RP,Pre-Arb,0,St.-Louis-Cardinals
+Edgar Santana,28,RP,Pre-Arb,0,St.-Louis-Cardinals
+Juan Nicasio,33,RP,Vet,1000000,St.-Louis-Cardinals
+Breyvic Valera,28,2B,Pre-Arb,568000,St.-Louis-Cardinals
+Andrew Toles,28,RF,Pre-Arb,563500,St.-Louis-Cardinals
+Domingo German,27,SP,Pre-Arb,0,St.-Louis-Cardinals
+Fernando Romero,25,RP,Pre-Arb,0,St.-Louis-Cardinals
+Manny Machado,27,3B,Vet,32000000,San-Diego-Padres
+Wil Myers,29,LF,Vet,22500000,San-Diego-Padres
+Eric Hosmer,30,1B,Vet,21000000,San-Diego-Padres
+Garrett Richards,32,RP,Vet,9241000,San-Diego-Padres
+Drew Pomeranz,31,RP,Vet,6000000,San-Diego-Padres
+Tommy Pham,32,LF,Arb 2,7900000,San-Diego-Padres
+Jurickson Profar,27,2B,Arb 4,5700000,San-Diego-Padres
+Zach Davies,27,SP,Arb 2,5250000,San-Diego-Padres
+Craig Stammen,36,RP,Vet,4185000,San-Diego-Padres
+Jason Castro,33,C,Vet,6850000,San-Diego-Padres
+Pierce Johnson,29,RP,Pre-Arb,2185000,San-Diego-Padres
+Mike Clevinger,29,SP,Arb 1,4100000,San-Diego-Padres
+Greg Garcia,30,2B,Arb 2,1500000,San-Diego-Padres
+Matthew Strahm,28,RP,Arb 1,1400000,San-Diego-Padres
+Dinelson Lamet,27,SP,Pre-Arb,1300000,San-Diego-Padres
+Mitch Moreland,34,1B,Vet,2500000,San-Diego-Padres
+Trevor Rosenthal,30,RP/CL,Vet,2000000,San-Diego-Padres
+Fernando Tatis Jr.,21,SS,Pre-Arb,591800,San-Diego-Padres
+Emilio Pagan,29,RP,Pre-Arb,591000,San-Diego-Padres
+Chris Paddack,24,SP,Pre-Arb,588500,San-Diego-Padres
+Tim Hill,30,RP,Pre-Arb,585750,San-Diego-Padres
+Trent Grisham,23,CF,Pre-Arb,566800,San-Diego-Padres
+Jake Cronenworth,26,SS,Pre-Arb,563500,San-Diego-Padres
+Jorge Mateo,25,SS,Pre-Arb,563500,San-Diego-Padres
+Adrian Morejon,21,RP,Pre-Arb,563500,San-Diego-Padres
+Dan Altavilla,27,RP,Pre-Arb,573500,San-Diego-Padres
+Austin Adams,33,RP,Pre-Arb,570900,San-Diego-Padres
+Austin Nola,30,C,Pre-Arb,570800,San-Diego-Padres
+Kirby Yates,33,RP/CL,Arb 3,7062500,San-Diego-Padres
+Trey Wingenter,26,RP,Pre-Arb,571300,San-Diego-Padres
+Jose Castillo,24,RP,Pre-Arb,569800,San-Diego-Padres
+Javier Guerra,24,RP,Pre-Arb,564800,San-Diego-Padres
+Anderson Espinoza,22,SP,Pre-Arb,563500,San-Diego-Padres
+Luis Campusano,21,C,Pre-Arb,563500,San-Diego-Padres
+Charlie Blackmon,34,RF,Vet,21333333,Colorado-Rockies
+Trevor Story,27,SS,Arb 2,9000000,Colorado-Rockies
+Daniel Murphy,35,1B,Vet,8000000,Colorado-Rockies
+German Marquez,25,SP,Arb 1,4800000,Colorado-Rockies
+Kyle Freeland,27,SP,Arb 1,2875000,Colorado-Rockies
+Tony Wolters,28,C,Arb 2,1900000,Colorado-Rockies
+Kevin Pillar,31,CF,Arb 3,4250000,Colorado-Rockies
+Mychal Givens,30,RP,Arb 2,3225000,Colorado-Rockies
+Carlos Estevez,27,RP,Arb 1,1080000,Colorado-Rockies
+Drew Butera,36,C,Vet,1000000,Colorado-Rockies
+Matt Kemp,35,LF,Vet,1000000,Colorado-Rockies
+Elias Diaz,29,C,Arb 1,575000,Colorado-Rockies
+Jairo Diaz,29,RP,Pre-Arb,573500,Colorado-Rockies
+Ryan McMahon,25,2B,Pre-Arb,573500,Colorado-Rockies
+Antonio Senzatela,25,SP,Pre-Arb,573500,Colorado-Rockies
+Raimel Tapia,26,CF,Pre-Arb,573500,Colorado-Rockies
+Garrett Hampson,25,2B,Pre-Arb,568500,Colorado-Rockies
+Jeff Hoffman,27,RP,Pre-Arb,568500,Colorado-Rockies
+Tyler Kinley,29,RP,Pre-Arb,568500,Colorado-Rockies
+Yency Almonte,26,RP,Pre-Arb,565500,Colorado-Rockies
+Daniel Bard,35,RP/CL,Arb 1,563500,Colorado-Rockies
+Sam Hilliard,26,CF,Pre-Arb,565500,Colorado-Rockies
+Josh Fuentes,27,1B,Pre-Arb,565500,Colorado-Rockies
+Ryan Castellani,24,SP,Pre-Arb,563500,Colorado-Rockies
+Ashton Goudeau,27,RP,Pre-Arb,563500,Colorado-Rockies
+A.J. Ramos,33,RP,Vet,575000,Colorado-Rockies
+Jose Mujica,24,RP,Pre-Arb,563500,Colorado-Rockies
+Tommy Doyle,24,RP,Pre-Arb,563500,Colorado-Rockies
+Nolan Arenado,29,3B,Vet,35025000,Colorado-Rockies
+Jon Gray,28,SP,Arb 2,5600000,Colorado-Rockies
+David Dahl,26,CF,Arb 1,2475000,Colorado-Rockies
+Scott Oberg,30,RP,Arb 2,2000000,Colorado-Rockies
+Chris Owings,28,2B,Vet,563500,Colorado-Rockies
+Joe Harvey,28,RP,Pre-Arb,563500,Colorado-Rockies
+Brendan Rodgers,23,SS,Pre-Arb,565500,Colorado-Rockies
+Justin Lawrence,25,RP,Pre-Arb,0,Colorado-Rockies
+Mike Trout,28,CF,Vet,37766667,Los-Angeles-Angels
+Albert Pujols,40,1B,Vet,29000000,Los-Angeles-Angels
+Anthony Rendon,30,3B,Vet,26071428,Los-Angeles-Angels
+Justin Upton,32,LF,Vet,21000000,Los-Angeles-Angels
+Julio Teheran,29,SP,Vet,9000000,Los-Angeles-Angels
+Dylan Bundy,27,SP,Arb 2,5000000,Los-Angeles-Angels
+Andrew Heaney,29,SP,Arb 3,4300000,Los-Angeles-Angels
+Hansel Robles,29,RP,Arb 3,3850000,Los-Angeles-Angels
+Cam Bedrosian,28,RP,Arb 3,2800000,Los-Angeles-Angels
+Matt Andriese,30,RP,Arb 2,1395000,Los-Angeles-Angels
+Noe Ramirez,30,RP,Pre-Arb,900000,Los-Angeles-Angels
+Max Stassi,29,C,Arb 1,800000,Los-Angeles-Angels
+Shohei Ohtani,25,DH,Pre-Arb,700000,Los-Angeles-Angels
+David Fletcher,26,2B,Pre-Arb,593500,Los-Angeles-Angels
+Felix Pena,30,RP,Pre-Arb,587500,Los-Angeles-Angels
+Ty Buttrey,27,RP/CL,Pre-Arb,578500,Los-Angeles-Angels
+Mike Mayers,28,RP,Pre-Arb,573000,Los-Angeles-Angels
+Griffin Canning,24,SP,Pre-Arb,570500,Los-Angeles-Angels
+Jacob Barnes,30,RP,Arb 1,563500,Los-Angeles-Angels
+Hoby Milner,29,RP,Pre-Arb,563500,Los-Angeles-Angels
+Jordon Adell,21,OF,Pre-Arb,563500,Los-Angeles-Angels
+Taylor Ward,26,3B,Pre-Arb,566500,Los-Angeles-Angels
+Anthony Bemboom,30,C,Pre-Arb,563500,Los-Angeles-Angels
+Jared Walsh,26,1B,Pre-Arb,563500,Los-Angeles-Angels
+Patrick Sandoval,23,RP,Pre-Arb,565750,Los-Angeles-Angels
+Luke Bard,29,RP,Pre-Arb,563500,Los-Angeles-Angels
+Elliot Soto,30,SS,Pre-Arb,563500,Los-Angeles-Angels
+Jahmai Jones,22,OF,Pre-Arb,563500,Los-Angeles-Angels
+Justin Anderson,27,RP,Pre-Arb,577000,Los-Angeles-Angels
+Luis Rengifo,23,SS,Pre-Arb,570000,Los-Angeles-Angels
+Franklin Barreto,24,SS,Pre-Arb,568500,Los-Angeles-Angels
+Eduardo Escobar,31,3B,Vet,7166666,Arizona-Diamondbacks
+Nick Ahmed,30,SS,Arb 3,6375000,Arizona-Diamondbacks
+David Peralta,32,LF,Arb 3,7000000,Arizona-Diamondbacks
+Madison Bumgarner,30,SP,Vet,6000000,Arizona-Diamondbacks
+Kole Calhoun,32,RF,Vet,6000000,Arizona-Diamondbacks
+Ketel Marte,26,2B,Arb 2,4000000,Arizona-Diamondbacks
+Junior Guerra,35,RP,Arb 2,2550000,Arizona-Diamondbacks
+Hector Rondon,32,RP,Vet,2500000,Arizona-Diamondbacks
+Stephen Vogt,35,C,Vet,2500000,Arizona-Diamondbacks
+Jon Jay,35,RF,Vet,1550000,Arizona-Diamondbacks
+Luke Weaver,26,SP,Pre-Arb,597000,Arizona-Diamondbacks
+Christian Walker,29,1B,Pre-Arb,589500,Arizona-Diamondbacks
+Silvino Bracho,27,RP,Pre-Arb,584100,Arizona-Diamondbacks
+Carson Kelly,25,C,Pre-Arb,581700,Arizona-Diamondbacks
+Stefan Crichton,28,RP/CL,Pre-Arb,577500,Arizona-Diamondbacks
+Zac Gallen,24,SP,Pre-Arb,575000,Arizona-Diamondbacks
+Alex Young,26,SP,Pre-Arb,575000,Arizona-Diamondbacks
+Tim Locastro,27,CF,Pre-Arb,574400,Arizona-Diamondbacks
+Taylor Clarke,27,RP,Pre-Arb,563500,Arizona-Diamondbacks
+Taylor Widener,25,RP,Pre-Arb,563500,Arizona-Diamondbacks
+Daulton Varsho,23,C,Pre-Arb,563500,Arizona-Diamondbacks
+Yoan Lopez,27,RP,Pre-Arb,578100,Arizona-Diamondbacks
+Riley Smith,25,RP,Pre-Arb,563500,Arizona-Diamondbacks
+Caleb Smith,28,SP,Pre-Arb,586500,Arizona-Diamondbacks
+Keury Mella,26,RP,Pre-Arb,563500,Arizona-Diamondbacks
+Wyatt Mathisen,26,3B,Pre-Arb,563500,Arizona-Diamondbacks
+Josh VanMeter,25,2B,Pre-Arb,568500,Arizona-Diamondbacks
+Pavin Smith,24,1B,Pre-Arb,563500,Arizona-Diamondbacks
+Merrill Kelly,31,SP,Pre-Arb,3000000,Arizona-Diamondbacks
+Corbin Martin,24,SP,Pre-Arb,565700,Arizona-Diamondbacks
+Jeremy Beasley,24,SP,Pre-Arb,563500,Arizona-Diamondbacks
+Josh Rojas,26,2B,Pre-Arb,568800,Arizona-Diamondbacks
+Domingo Leyba,24,SS,Pre-Arb,563500,Arizona-Diamondbacks
+Shin-Soo Choo,37,DH,Vet,21000000,Texas-Rangers
+Lance Lynn,33,SP,Vet,11333333,Texas-Rangers
+Kyle Gibson,32,SP,Vet,11555555,Texas-Rangers
+Rougned Odor,26,2B,Pre-Arb,9333333,Texas-Rangers
+Jordan Lyles,29,SP,Vet,8000000,Texas-Rangers
+Joey Gallo,26,RF,Arb 1,4400000,Texas-Rangers
+Jesse Chavez,36,RP,Vet,4000000,Texas-Rangers
+Jeff Mathis,37,C,Vet,3000000,Texas-Rangers
+Rafael Montero,29,RP/CL,Arb 2,785000,Texas-Rangers
+Isiah Kiner-Falefa,25,3B,Pre-Arb,587000,Texas-Rangers
+Willie Calhoun,25,LF,Pre-Arb,577000,Texas-Rangers
+Brett Martin,25,RP,Pre-Arb,570500,Texas-Rangers
+Nick Solak,25,2B,Pre-Arb,565500,Texas-Rangers
+Jonathan Hernandez,23,RP,Pre-Arb,564500,Texas-Rangers
+Kolby Allard,22,RP,Pre-Arb,563500,Texas-Rangers
+Jimmy Herget,26,RP,Pre-Arb,563500,Texas-Rangers
+Taylor Hearn,25,RP,Pre-Arb,563500,Texas-Rangers
+Derek Dietrich,30,2B,Arb 4,575000,Texas-Rangers
+Wes Benjamin,26,SP,Pre-Arb,563500,Texas-Rangers
+Leodys Taveras,21,OF,Pre-Arb,563500,Texas-Rangers
+Ronald Guzman,25,1B,Pre-Arb,588000,Texas-Rangers
+Kyle Cody,25,SP,Pre-Arb,563500,Texas-Rangers
+Anderson Tejeda,22,SS,Pre-Arb,563500,Texas-Rangers
+Eli White,26,SS,Pre-Arb,563500,Texas-Rangers
+John King,25,RP,Pre-Arb,563500,Texas-Rangers
+Sam Huff,22,C,Pre-Arb,563500,Texas-Rangers
+Demarcus Evans,23,RP,Pre-Arb,563500,Texas-Rangers
+Andrew Romine,34,SS,Vet,575000,Texas-Rangers
+Corey Kluber,34,SP,Vet,17500000,Texas-Rangers
+Elvis Andrus,31,SS,Vet,15250000,Texas-Rangers
+Daniel Santana,29,CF,Arb 3,3600000,Texas-Rangers
+Jose Leclerc,26,RP/CL,Arb 1,2750000,Texas-Rangers
+Joely Rodriguez,28,RP,Arb 1,2500000,Texas-Rangers
+Edinson Volquez,36,RP,Vet,1000000,Texas-Rangers
+Brock Burke,23,SP,Pre-Arb,564500,Texas-Rangers
+Joe Palumbo,25,RP,Pre-Arb,563500,Texas-Rangers
+Jose Trevino,27,C,Pre-Arb,565500,Texas-Rangers
+Sherten Apostel,21,3B,Pre-Arb,563500,Texas-Rangers
+Juan Nicasio,33,RP,Vet,1000000,Texas-Rangers
+Mark Melancon,35,RP/CL,Vet,19000000,Atlanta-Braves
+Freddie Freeman,30,1B,Vet,22559375,Atlanta-Braves
+Marcell Ozuna,29,LF,Vet,18000000,Atlanta-Braves
+Will Smith,30,RP,Vet,13000000,Atlanta-Braves
+Travis d'Arnaud,31,C,Vet,8000000,Atlanta-Braves
+Ender Inciarte,29,CF,Arb 4,7700000,Atlanta-Braves
+Chris Martin,34,RP,Pre-Arb,7000000,Atlanta-Braves
+Shane Greene,31,RP,Arb 3,6250000,Atlanta-Braves
+Tyler Flowers,34,C,Vet,4000000,Atlanta-Braves
+Nick Markakis,36,RF,Vet,4000000,Atlanta-Braves
+Adam Duvall,31,RF,Arb 2,3250000,Atlanta-Braves
+Dansby Swanson,26,SS,Arb 1,3150000,Atlanta-Braves
+Darren O'Day,37,RP,Vet,2250000,Atlanta-Braves
+Luke Jackson,28,RP,Arb 1,1825000,Atlanta-Braves
+Ronald Acuna,22,RF,Pre-Arb,1000000,Atlanta-Braves
+Ozzie Albies,23,2B,Pre-Arb,1000000,Atlanta-Braves
+Adeiny Hechavarria,31,SS,Vet,1000000,Atlanta-Braves
+Josh Tomlin,35,RP,Vet,1000000,Atlanta-Braves
+Grant Dayton,32,RP,Arb 1,655000,Atlanta-Braves
+Max Fried,26,SP,Pre-Arb,583500,Atlanta-Braves
+A.J. Minter,26,RP,Pre-Arb,575000,Atlanta-Braves
+Austin Riley,23,3B,Pre-Arb,568500,Atlanta-Braves
+Tyler Matzek,29,RP,Pre-Arb,563500,Atlanta-Braves
+Kyle Wright,24,SP,Pre-Arb,573500,Atlanta-Braves
+Ian Anderson,22,SP,Pre-Arb,563500,Atlanta-Braves
+Bryse Wilson,22,RP,Pre-Arb,575000,Atlanta-Braves
+Jacob Webb,26,RP,Pre-Arb,563500,Atlanta-Braves
+Pablo Sandoval,33,3B,Vet,563500,Atlanta-Braves
+Cole Hamels,36,SP,Vet,18000000,Atlanta-Braves
+Michael Soroka,22,SP,Pre-Arb,583500,Atlanta-Braves
+Jeremy Walker,25,RP,Pre-Arb,573500,Atlanta-Braves
+Tom Milone,33,SP,Vet,1000000,Atlanta-Braves
+Josh Donaldson,34,3B,Vet,21000000,Minnesota-Twins
+Kenta Maeda,32,SP,Pre-Arb,5310000,Minnesota-Twins
+Rich Hill,40,SP,Vet,6518518,Minnesota-Twins
+Nelson Cruz,40,DH,Vet,12000000,Minnesota-Twins
+Marwin Gonzalez,31,3B,Vet,9000000,Minnesota-Twins
+Eddie Rosario,28,LF,Arb 2,7750000,Minnesota-Twins
+Max Kepler,27,RF,Arb 2,6250000,Minnesota-Twins
+Sergio Romo,37,RP,Vet,4750000,Minnesota-Twins
+Taylor Rogers,29,RP/CL,Arb 2,4450000,Minnesota-Twins
+Alex Avila,33,C,Vet,4250000,Minnesota-Twins
+Jose Berrios,26,SP,Arb 1,4025000,Minnesota-Twins
+Jorge Polanco,26,SS,Arb 1,3833333,Minnesota-Twins
+Byron Buxton,26,CF,Arb 2,3075000,Minnesota-Twins
+Miguel Sano,27,1B,Arb 2,7000000,Minnesota-Twins
+Tyler Clippard,35,RP,Vet,2750000,Minnesota-Twins
+Trevor May,30,RP,Arb 3,2205000,Minnesota-Twins
+Michael Pineda,31,SP,Vet,10000000,Minnesota-Twins
+Ehire Adrianza,30,SS,Arb 4,1600000,Minnesota-Twins
+Tyler Duffey,29,RP,Arb 1,1200000,Minnesota-Twins
+Matt Wisler,27,RP,Arb 1,725000,Minnesota-Twins
+Mitch Garver,29,C,Pre-Arb,620000,Minnesota-Twins
+Luis Arraez,23,2B,Pre-Arb,596000,Minnesota-Twins
+Jake Cave,27,RF,Pre-Arb,587500,Minnesota-Twins
+Cody Stashak,26,RP,Pre-Arb,571000,Minnesota-Twins
+Jorge Alcala,24,RP,Pre-Arb,563500,Minnesota-Twins
+Caleb Thielbar,33,RP,Pre-Arb,563500,Minnesota-Twins
+Devin Smeltzer,24,RP,Pre-Arb,571000,Minnesota-Twins
+Ryan Jeffers,23,C,Pre-Arb,563500,Minnesota-Twins
+Jake Odorizzi,30,SP,Vet,17800000,Minnesota-Twins
+Nick Gordon,24,SS,Pre-Arb,563500,Minnesota-Twins
+Brent Rooker,25,OF,Pre-Arb,563500,Minnesota-Twins
+Fernando Romero,25,RP,Pre-Arb,0,Minnesota-Twins
+Joey Votto,36,1B,Vet,25000000,Cincinnati-Reds
+Trevor Bauer,29,SP,Arb 4,17500000,Cincinnati-Reds
+Nick Castellanos,28,RF,Vet,16000000,Cincinnati-Reds
+Mike Moustakas,31,2B,Vet,12000000,Cincinnati-Reds
+Sonny Gray,30,SP,Vet,10203667,Cincinnati-Reds
+Raisel Iglesias,30,RP/CL,Pre-Arb,9000000,Cincinnati-Reds
+Eugenio Suarez,28,3B,Arb 3,9535714,Cincinnati-Reds
+Shogo Akiyama,32,CF,Pre-Arb,6000000,Cincinnati-Reds
+Wade Miley,33,SP,Vet,6000000,Cincinnati-Reds
+Anthony DeSclafani,30,RP,Arb 3,5900000,Cincinnati-Reds
+Freddy Galvis,30,SS,Vet,5500000,Cincinnati-Reds
+Tucker Barnhart,29,C,Pre-Arb,3937500,Cincinnati-Reds
+Michael Lorenzen,28,RP,Arb 3,3725000,Cincinnati-Reds
+Curt Casali,31,C,Arb 2,1462500,Cincinnati-Reds
+Archie Bradley,27,RP/CL,Arb 2,4100000,Cincinnati-Reds
+Brian Goodwin,29,RF,Arb 1,2200000,Cincinnati-Reds
+Luis Castillo,27,SP,Pre-Arb,663500,Cincinnati-Reds
+Tyler Mahle,25,SP,Pre-Arb,609793,Cincinnati-Reds
+Jesse Winker,26,LF,Pre-Arb,605000,Cincinnati-Reds
+Amir Garrett,28,RP,Pre-Arb,595000,Cincinnati-Reds
+Robert Stephenson,27,RP,Pre-Arb,592000,Cincinnati-Reds
+Lucas Sims,26,RP,Pre-Arb,577500,Cincinnati-Reds
+Kyle Farmer,29,C,Pre-Arb,571000,Cincinnati-Reds
+Nick Senzel,25,3B,Pre-Arb,570000,Cincinnati-Reds
+Tejay Antone,26,RP,Pre-Arb,563500,Cincinnati-Reds
+Aristides Aquino,26,RF,Pre-Arb,563500,Cincinnati-Reds
+Jose Israel Garcia,22,SS,Pre-Arb,563500,Cincinnati-Reds
+Sal Romano,26,RP,Pre-Arb,575000,Cincinnati-Reds
+Matthew Bowman,29,RP,Arb 1,865000,Cincinnati-Reds
+Tyler Thornburg,31,RP,Vet,575000,Cincinnati-Reds
+Jesse Biddle,28,RP,Pre-Arb,575000,Cincinnati-Reds
+Jose De Leon,27,RP,Pre-Arb,563500,Cincinnati-Reds
+Hyun-Jin Ryu,33,SP,Vet,20000000,Toronto-Blue-Jays
+Randal Grichuk,28,CF,Arb 3,13000000,Toronto-Blue-Jays
+Tanner Roark,33,SP,Vet,12000000,Toronto-Blue-Jays
+Chase Anderson,32,SP,Arb 4,8500000,Toronto-Blue-Jays
+Travis Shaw,30,1B,Arb 2,4158000,Toronto-Blue-Jays
+Matt Shoemaker,33,SP,Arb 4,4200000,Toronto-Blue-Jays
+Lourdes Gurriel Jr.,26,LF,Pre-Arb,2928571,Toronto-Blue-Jays
+Jonathan Villar,29,CF,Arb 3,8200000,Toronto-Blue-Jays
+Shun Yamaguchi,32,RP,Pre-Arb,3175000,Toronto-Blue-Jays
+Robbie Ray,28,SP,Arb 3,9430000,Toronto-Blue-Jays
+Joe Panik,29,2B,Arb 3,2850000,Toronto-Blue-Jays
+Taijuan Walker,27,SP,Arb 4,2370370,Toronto-Blue-Jays
+Anthony Bass,32,RP,Vet,1500000,Toronto-Blue-Jays
+Rafael Dolis,32,RP/CL,Pre-Arb,1000000,Toronto-Blue-Jays
+Teoscar Hernandez,27,DH,Pre-Arb,602200,Toronto-Blue-Jays
+Danny Jansen,25,C,Pre-Arb,580900,Toronto-Blue-Jays
+Vladimir Guerrero,21,3B,Pre-Arb,579300,Toronto-Blue-Jays
+Cavan Biggio,25,2B,Pre-Arb,576600,Toronto-Blue-Jays
+Bo Bichette,22,SS,Pre-Arb,570000,Toronto-Blue-Jays
+A.J. Cole,28,RP,Arb 1,563500,Toronto-Blue-Jays
+Thomas Hatch,25,RP,Pre-Arb,563500,Toronto-Blue-Jays
+Ryan Borucki,26,RP,Pre-Arb,573800,Toronto-Blue-Jays
+Nate Pearson,23,SP,Pre-Arb,563500,Toronto-Blue-Jays
+Ross Stripling,30,RP,Arb 1,600000,Toronto-Blue-Jays
+Jonathan Davis,28,CF,Pre-Arb,569000,Toronto-Blue-Jays
+Alejandro Kirk,21,C,Pre-Arb,563500,Toronto-Blue-Jays
+T.J. Zeuch,24,SP,Pre-Arb,563500,Toronto-Blue-Jays
+Patrick Murphy,25,P,Pre-Arb,563500,Toronto-Blue-Jays
+Ken Giles,29,RP/CL,Arb 3,9600000,Toronto-Blue-Jays
+Trent Thornton,26,SP,Pre-Arb,581900,Toronto-Blue-Jays
+Derek Fisher,26,RF,Pre-Arb,579600,Toronto-Blue-Jays
+Rowdy Tellez,25,1B,Pre-Arb,579600,Toronto-Blue-Jays
+Elvis Luciano,20,RP,Pre-Arb,570800,Toronto-Blue-Jays
+Jordan Romano,27,RP,Pre-Arb,567800,Toronto-Blue-Jays
+Yennsy Diaz,23,SP,Pre-Arb,564000,Toronto-Blue-Jays
+Jacob Waguespack,26,RP,Pre-Arb,563500,Toronto-Blue-Jays
+Julian Merryweather,28,RP,Pre-Arb,563500,Toronto-Blue-Jays
+Breyvic Valera,28,2B,Pre-Arb,568000,Toronto-Blue-Jays
+Yasmani Grandal,31,C,Vet,18250000,Chicago-White-Sox
+Dallas Keuchel,32,SP,Vet,18000000,Chicago-White-Sox
+Jose Abreu,33,1B,Vet,12781666,Chicago-White-Sox
+Edwin Encarnacion,37,DH,Vet,12000000,Chicago-White-Sox
+Alex Colome,31,RP/CL,Arb 3,10532500,Chicago-White-Sox
+Nomar Mazara,25,RF,Arb 2,5560000,Chicago-White-Sox
+James McCann,30,C,Arb 3,5400000,Chicago-White-Sox
+Gio Gonzalez,34,RP,Vet,4500000,Chicago-White-Sox
+Carlos Rodon,27,SP,Arb 3,4450000,Chicago-White-Sox
+Tim Anderson,27,SS,Pre-Arb,4000000,Chicago-White-Sox
+Eloy Jimenez,23,LF,Pre-Arb,2333333,Chicago-White-Sox
+Yoan Moncada,25,3B,Pre-Arb,1800000,Chicago-White-Sox
+Luis Robert,22,CF,Pre-Arb,1500000,Chicago-White-Sox
+Aaron Bummer,26,RP,Pre-Arb,1000000,Chicago-White-Sox
+Jarrod Dyson,35,CF,Vet,2000000,Chicago-White-Sox
+Lucas Giolito,25,SP,Pre-Arb,627000,Chicago-White-Sox
+Jace Fry,26,RP,Pre-Arb,590000,Chicago-White-Sox
+Adam Engel,28,CF,Pre-Arb,588000,Chicago-White-Sox
+Dylan Cease,24,SP,Pre-Arb,575000,Chicago-White-Sox
+Jimmy Cordero,28,RP,Pre-Arb,574000,Chicago-White-Sox
+Codi Heuer,23,RP,Pre-Arb,563500,Chicago-White-Sox
+Reynaldo Lopez,26,SP,Pre-Arb,605000,Chicago-White-Sox
+Matt Foster,25,RP,Pre-Arb,563500,Chicago-White-Sox
+Nick Madrigal,23,SS,Pre-Arb,563500,Chicago-White-Sox
+Jose Ruiz,25,RP,Pre-Arb,563500,Chicago-White-Sox
+Dane Dunning,25,SP,Pre-Arb,563500,Chicago-White-Sox
+Yolmer Sanchez,28,3B,Arb 3,575000,Chicago-White-Sox
+Garrett Crochet,21,P,Pre-Arb,563500,Chicago-White-Sox
+Leury Garcia,29,OF,Arb 3,3250000,Chicago-White-Sox
+Evan Marshall,30,RP,Arb 1,1100000,Chicago-White-Sox
+Jimmy Lambert,25,RP,Pre-Arb,563500,Chicago-White-Sox
+Kyle Seager,32,3B,Vet,19500000,Seattle-Mariners
+Yusei Kikuchi,29,SP,Pre-Arb,15500000,Seattle-Mariners
+Dee Gordon,32,2B,Vet,13800000,Seattle-Mariners
+Yoshihisa Hirano,36,RP/CL,Pre-Arb,1655555,Seattle-Mariners
+Kendall Graveman,29,RP,Arb 2,1500000,Seattle-Mariners
+Evan White,24,1B,Pre-Arb,1300000,Seattle-Mariners
+Marco Gonzales,28,SP,Pre-Arb,1000000,Seattle-Mariners
+Brandon Brennan,28,RP,Pre-Arb,590400,Seattle-Mariners
+J.P. Crawford,25,SS,Pre-Arb,575800,Seattle-Mariners
+Erik Swanson,26,RP,Pre-Arb,567600,Seattle-Mariners
+Justus Sheffield,24,SP,Pre-Arb,566300,Seattle-Mariners
+Kyle Lewis,24,LF,Pre-Arb,565000,Seattle-Mariners
+Justin Dunn,24,SP,Pre-Arb,564500,Seattle-Mariners
+Nick Margevicius,24,SP,Pre-Arb,563500,Seattle-Mariners
+Anthony Misiewicz,25,RP,Pre-Arb,563500,Seattle-Mariners
+Yohan Ramirez,25,RP,Pre-Arb,563500,Seattle-Mariners
+Timmy Lopes,26,2B,Pre-Arb,566700,Seattle-Mariners
+Joey Gerber,23,RP,Pre-Arb,563500,Seattle-Mariners
+Joseph Odom,28,C,Pre-Arb,563500,Seattle-Mariners
+Brady Lail,26,RP,Pre-Arb,563500,Seattle-Mariners
+Jose Marmolejos,27,1B,Pre-Arb,563500,Seattle-Mariners
+Ljay Newsome,23,SP,Pre-Arb,563500,Seattle-Mariners
+Ty France,25,3B,Pre-Arb,567100,Seattle-Mariners
+Walker Lockett,26,RP,Pre-Arb,566025,Seattle-Mariners
+Joe Hudson,29,C,Pre-Arb,563500,Seattle-Mariners
+Phillip Ervin,27,CF,Pre-Arb,573500,Seattle-Mariners
+Casey Sadler,29,RP,Pre-Arb,577500,Seattle-Mariners
+Braden Bishop,26,CF,Pre-Arb,563500,Seattle-Mariners
+Mitch Haniger,29,RF,Arb 1,3010000,Seattle-Mariners
+C.J. Edwards,28,RP,Arb 2,950000,Seattle-Mariners
+Tom Murphy,29,C,Pre-Arb,577300,Seattle-Mariners
+Matt Magill,30,RP/CL,Pre-Arb,574900,Seattle-Mariners
+Dylan Moore,27,SS,Pre-Arb,570100,Seattle-Mariners
+Nestor Cortes,25,RP,Pre-Arb,568700,Seattle-Mariners
+Shed Long,24,2B,Pre-Arb,567600,Seattle-Mariners
+Gerson Bautista,25,SP,Pre-Arb,564100,Seattle-Mariners
+Taylor Guilbeau,27,RP,Pre-Arb,565500,Seattle-Mariners
+Sam Haggerty,26,2B,Pre-Arb,563800,Seattle-Mariners
+Andres Munoz,21,RP,Pre-Arb,566300,Seattle-Mariners
+Luis Torrens,24,C,Pre-Arb,568800,Seattle-Mariners
+Jake Fraley,25,RF,Pre-Arb,563800,Seattle-Mariners
+Miguel Cabrera,37,DH,Vet,30000000,Detroit-Tigers
+Jordan Zimmermann,34,RP,Vet,25000000,Detroit-Tigers
+Matt Boyd,29,SP,Arb 2,5300000,Detroit-Tigers
+Austin Romine,31,C,Vet,4150000,Detroit-Tigers
+Daniel Norris,27,RP,Arb 2,2960000,Detroit-Tigers
+Michael Fulmer,27,SP,Arb 2,2800000,Detroit-Tigers
+Buck Farmer,29,RP/CL,Arb 1,1150000,Detroit-Tigers
+Niko Goodrum,28,SS,Pre-Arb,698200,Detroit-Tigers
+Joe Jimenez,25,RP,Pre-Arb,584900,Detroit-Tigers
+Jeimer Candelario,26,3B,Pre-Arb,583300,Detroit-Tigers
+Victor Reyes,25,RF,Pre-Arb,573900,Detroit-Tigers
+Spencer Turnbull,27,SP,Pre-Arb,573500,Detroit-Tigers
+Jose Cisnero,31,RP,Pre-Arb,571200,Detroit-Tigers
+Harold Castro,26,3B,Pre-Arb,570700,Detroit-Tigers
+Gregory Soto,25,RP,Pre-Arb,567800,Detroit-Tigers
+Tyler Alexander,25,RP,Pre-Arb,566600,Detroit-Tigers
+Bryan Garcia,25,RP,Pre-Arb,564400,Detroit-Tigers
+Rony Garcia,22,RP,Pre-Arb,563500,Detroit-Tigers
+Casey Mize,23,SP,Pre-Arb,563500,Detroit-Tigers
+Isaac Paredes,21,INF,Pre-Arb,563500,Detroit-Tigers
+Tarik Skubal,23,SP,Pre-Arb,563500,Detroit-Tigers
+Jorge Bonifacio,27,RF,Pre-Arb,563500,Detroit-Tigers
+Derek Hill,24,OF,Pre-Arb,563500,Detroit-Tigers
+Daz Cameron,23,OF,Pre-Arb,563500,Detroit-Tigers
+Sergio Alcantara,23,2B,Pre-Arb,563500,Detroit-Tigers
+Nick Ramirez,30,RP,Pre-Arb,563500,Detroit-Tigers
+Eric Haase,27,C,Pre-Arb,565400,Detroit-Tigers
+Brandon Dixon,28,1B,Pre-Arb,575000,Detroit-Tigers
+C.J. Cron,30,1B,Arb 3,6100000,Detroit-Tigers
+Jonathan Schoop,28,2B,Vet,6100000,Detroit-Tigers
+Ivan Nova,33,SP,Vet,1593000,Detroit-Tigers
+Jacoby Jones,28,CF,Arb 1,1575000,Detroit-Tigers
+Dario Agrazal,25,SP,Pre-Arb,563500,Detroit-Tigers
+Willi Castro,23,SS,Pre-Arb,563500,Detroit-Tigers
+Ryan Braun,36,1B,Vet,17000000,Milwaukee-Brewers
+Christian Yelich,28,LF,Vet,12500000,Milwaukee-Brewers
+Avisail Garcia,29,LF,Vet,7250000,Milwaukee-Brewers
+Brett Anderson,32,SP,Vet,5148000,Milwaukee-Brewers
+Corey Knebel,28,RP,Arb 3,5125000,Milwaukee-Brewers
+Josh Hader,26,RP/CL,Arb 1,4100000,Milwaukee-Brewers
+Eric Sogard,34,2B,Vet,4000000,Milwaukee-Brewers
+Josh Lindblom,33,SP,Vet,3226666,Milwaukee-Brewers
+Omar Narvaez,28,C,Arb 1,2725000,Milwaukee-Brewers
+Orlando Arcia,25,SS,Arb 1,2200000,Milwaukee-Brewers
+Alexander Claudio,28,RP,Arb 2,1750000,Milwaukee-Brewers
+Eric Yardley,29,RP,Pre-Arb,563500,Milwaukee-Brewers
+Freddy Peralta,24,RP,Pre-Arb,810160,Milwaukee-Brewers
+Brent Suter,30,SP,Arb 1,950000,Milwaukee-Brewers
+Jedd Gyorko,31,3B,Vet,1000000,Milwaukee-Brewers
+Brandon Woodruff,27,SP,Pre-Arb,633100,Milwaukee-Brewers
+Keston Hiura,23,2B,Pre-Arb,582100,Milwaukee-Brewers
+Adrian Houser,27,SP,Pre-Arb,581600,Milwaukee-Brewers
+Corbin Burnes,25,SP,Pre-Arb,570000,Milwaukee-Brewers
+Luis Urias,23,2B,Pre-Arb,568800,Milwaukee-Brewers
+Devin Williams,25,RP,Pre-Arb,566300,Milwaukee-Brewers
+Ray Black,30,RP,Pre-Arb,566200,Milwaukee-Brewers
+Drew Rasmussen,24,RP,Pre-Arb,563500,Milwaukee-Brewers
+Jacob Nottingham,25,C,Pre-Arb,563500,Milwaukee-Brewers
+Jace Peterson,30,3B,Arb 3,563500,Milwaukee-Brewers
+Tyrone Taylor,26,CF,Pre-Arb,565300,Milwaukee-Brewers
+Dan Vogelbach,27,DH,Pre-Arb,580900,Milwaukee-Brewers
+Justin Topa,29,RP,Pre-Arb,563500,Milwaukee-Brewers
+Manuel Pina,33,C,Arb 2,1850000,Milwaukee-Brewers
+Ben Gamel,28,LF,Arb 1,1400000,Milwaukee-Brewers
+Carlos Santana,34,1B,Vet,20833334,Cleveland-Indians
+Francisco Lindor,26,SS,Arb 2,17500000,Cleveland-Indians
+Carlos Carrasco,33,SP,Vet,10250000,Cleveland-Indians
+Jose Ramirez,27,3B,Arb 3,6850000,Cleveland-Indians
+Brad Hand,30,RP/CL,Vet,7000000,Cleveland-Indians
+Cesar Hernandez,30,2B,Arb 4,6343000,Cleveland-Indians
+Roberto Perez,31,C,Pre-Arb,3625000,Cleveland-Indians
+Oliver Perez,38,RP,Vet,3000000,Cleveland-Indians
+Sandy Leon,31,C,Arb 4,2000000,Cleveland-Indians
+Delino DeShields,27,CF,Arb 2,1875000,Cleveland-Indians
+Tyler Naquin,29,RF,Arb 1,1450000,Cleveland-Indians
+Austin Hedges,27,C,Arb 2,3000000,Cleveland-Indians
+Nick Wittgren,29,RP,Arb 1,1125000,Cleveland-Indians
+Shane Bieber,25,SP,Pre-Arb,623200,Cleveland-Indians
+Franmil Reyes,24,DH,Pre-Arb,586400,Cleveland-Indians
+Mike Freeman,32,2B,Pre-Arb,575000,Cleveland-Indians
+Adam Plutko,28,RP,Pre-Arb,574800,Cleveland-Indians
+Jordan Luplow,26,LF,Pre-Arb,574500,Cleveland-Indians
+Phil Maton,27,RP,Pre-Arb,572100,Cleveland-Indians
+Aaron Civale,25,SP,Pre-Arb,563500,Cleveland-Indians
+James Karinchak,24,RP,Pre-Arb,563500,Cleveland-Indians
+Cam Hill,26,RP,Pre-Arb,563500,Cleveland-Indians
+Oscar Mercado,25,CF,Pre-Arb,573400,Cleveland-Indians
+Zach Plesac,25,SP,Pre-Arb,563500,Cleveland-Indians
+Adam Cimber,29,RP,Pre-Arb,581500,Cleveland-Indians
+Triston McKenzie,22,RP,Pre-Arb,563500,Cleveland-Indians
+Cal Quantrill,25,SP,Pre-Arb,571800,Cleveland-Indians
+Josh Naylor,23,1B,Pre-Arb,568500,Cleveland-Indians
+Jefry Rodriguez,26,RP,Pre-Arb,566000,Cleveland-Indians
+Emmanuel Clase,22,RP,Pre-Arb,564800,Cleveland-Indians
+Khris Davis,32,DH,Vet,16750000,Oakland-Athletics
+Marcus Semien,29,SS,Arb 3,13000000,Oakland-Athletics
+Joakim Soria,36,RP,Vet,8500000,Oakland-Athletics
+Michael Fiers,35,SP,Vet,8100000,Oakland-Athletics
+Stephen Piscotty,29,RF,Arb 2,7333333,Oakland-Athletics
+Yusmeiro Petit,35,RP,Vet,5500000,Oakland-Athletics
+Liam Hendriks,31,RP/CL,Arb 4,5300000,Oakland-Athletics
+Mark Canha,31,LF,Arb 2,4800000,Oakland-Athletics
+Sean Manaea,28,SP,Arb 2,3750000,Oakland-Athletics
+Robbie Grossman,30,OF,Arb 3,3725000,Oakland-Athletics
+Jake Diekman,33,RP,Vet,2750000,Oakland-Athletics
+Chris Bassitt,31,SP,Arb 1,2250000,Oakland-Athletics
+Chad Pinder,28,LF,Arb 1,2025000,Oakland-Athletics
+Mike Minor,32,SP,Vet,9833334,Oakland-Athletics
+T.J. McFarland,31,RP,Arb 4,1800000,Oakland-Athletics
+Tommy La Stella,31,2B,Arb 3,3250000,Oakland-Athletics
+Matt Olson,26,1B,Pre-Arb,603500,Oakland-Athletics
+Tony Kemp,28,2B,Pre-Arb,597100,Oakland-Athletics
+Frankie Montas,27,SP,Pre-Arb,573500,Oakland-Athletics
+Ramon Laureano,25,OF,Pre-Arb,568500,Oakland-Athletics
+Lou Trivino,28,RP,Pre-Arb,568500,Oakland-Athletics
+Jesus Luzardo,22,SP,Pre-Arb,563500,Oakland-Athletics
+Vimael Machin,26,2B,Pre-Arb,563500,Oakland-Athletics
+Sean Murphy,25,C,Pre-Arb,563500,Oakland-Athletics
+Jordan Weems,27,RP,Pre-Arb,563500,Oakland-Athletics
+Jonah Heim,25,C,Pre-Arb,563500,Oakland-Athletics
+Nate Orf,30,2B,Pre-Arb,563500,Oakland-Athletics
+Jake Lamb,29,1B,Arb 3,563500,Oakland-Athletics
+Burch Smith,30,RP,Pre-Arb,680000,Oakland-Athletics
+Matt Chapman,27,3B,Pre-Arb,623500,Oakland-Athletics
+J.B. Wendelken,27,RP,Pre-Arb,568500,Oakland-Athletics
+A.J. Puk,25,SP,Pre-Arb,563500,Oakland-Athletics
+Salvador Perez,30,C,Vet,14200000,Kansas-City-Royals
+Danny Duffy,31,SP,Vet,15250000,Kansas-City-Royals
+Jorge Soler,28,DH,Arb 1,7300000,Kansas-City-Royals
+Whit Merrifield,31,CF,Arb 1,5000000,Kansas-City-Royals
+Maikel Franco,27,3B,Arb 3,3340000,Kansas-City-Royals
+Alex Gordon,36,LF,Vet,4000000,Kansas-City-Royals
+Greg Holland,34,RP,Vet,1250000,Kansas-City-Royals
+Mike Montgomery,31,SP,Arb 2,3100000,Kansas-City-Royals
+Jesse Hahn,30,RP,Arb 2,637037,Kansas-City-Royals
+Scott Barlow,27,RP,Pre-Arb,650000,Kansas-City-Royals
+Brad Keller,24,SP,Pre-Arb,613000,Kansas-City-Royals
+Hunter Dozier,28,RF,Pre-Arb,610500,Kansas-City-Royals
+Adalberto Mondesi,24,SS,Pre-Arb,604500,Kansas-City-Royals
+Cameron Gallagher,27,C,Pre-Arb,580500,Kansas-City-Royals
+Ryan O'Hearn,26,1B,Pre-Arb,576950,Kansas-City-Royals
+Nicholas Lopez,25,2B,Pre-Arb,571250,Kansas-City-Royals
+Franchy Cordero,25,CF,Pre-Arb,571100,Kansas-City-Royals
+Josh Staumont,26,RP,Pre-Arb,565950,Kansas-City-Royals
+Tyler Zuber,25,RP,Pre-Arb,563500,Kansas-City-Royals
+Brady Singer,23,SP,Pre-Arb,563500,Kansas-City-Royals
+Jake Junis,27,SP,Pre-Arb,608000,Kansas-City-Royals
+Jake Newberry,25,RP,Pre-Arb,571500,Kansas-City-Royals
+Kris Bubic,22,SP,Pre-Arb,563500,Kansas-City-Royals
+Nick Heath,26,OF,Pre-Arb,563500,Kansas-City-Royals
+Chance Adams,25,RP,Pre-Arb,565750,Kansas-City-Royals
+Carlos Hernandez,23,SP,Pre-Arb,563500,Kansas-City-Royals
+Edward Olivares,24,OF,Pre-Arb,563500,Kansas-City-Royals
+Richard Lovelady,24,RP,Pre-Arb,567100,Kansas-City-Royals
+Ian Kennedy,35,RP,Vet,16500000,Kansas-City-Royals
+Glenn Sparkman,28,SP,Pre-Arb,604500,Kansas-City-Royals
+Bubba Starling,27,CF,Pre-Arb,568250,Kansas-City-Royals
+Foster Griffin,24,RP,Pre-Arb,563500,Kansas-City-Royals
+Kyle Zimmer,28,RP,Pre-Arb,563500,Kansas-City-Royals
+Matt Harvey,31,RP,Vet,575000,Kansas-City-Royals
+Corey Dickerson,31,LF,Vet,8000000,Miami-Marlins
+Starling Marte,31,CF,Vet,11500000,Miami-Marlins
+Miguel Rojas,31,SS,Arb 3,4750000,Miami-Marlins
+Jose Urena,28,SP,Arb 2,3750000,Miami-Marlins
+Brandon Kintzler,35,RP/CL,Vet,3000000,Miami-Marlins
+Jesus Aguilar,30,1B,Arb 1,2575000,Miami-Marlins
+Matt Joyce,35,LF,Vet,1593000,Miami-Marlins
+Yimi Garcia,29,RP,Arb 3,1100000,Miami-Marlins
+Brad Boxberger,32,RP,Vet,1000000,Miami-Marlins
+Nick Vincent,33,RP,Vet,1000000,Miami-Marlins
+Richard Bleier,33,RP,Arb 1,915000,Miami-Marlins
+Sandy Alcantara,24,SP,Pre-Arb,620000,Miami-Marlins
+Brian Anderson,27,RF,Pre-Arb,615000,Miami-Marlins
+Ryne Stanek,28,RP,Pre-Arb,604200,Miami-Marlins
+Jorge Alfaro,27,C,Pre-Arb,595000,Miami-Marlins
+Jon Berti,30,2B,Pre-Arb,595000,Miami-Marlins
+Lewis Brinson,26,RF,Pre-Arb,580000,Miami-Marlins
+Garrett Cooper,29,1B,Pre-Arb,580000,Miami-Marlins
+Pablo Lopez,24,SP,Pre-Arb,575000,Miami-Marlins
+Magneuris Sierra,24,CF,Pre-Arb,563500,Miami-Marlins
+Stephen Tarpley,27,RP,Pre-Arb,563500,Miami-Marlins
+Chad Wallach,28,C,Pre-Arb,563500,Miami-Marlins
+James Hoyt,33,RP,Pre-Arb,608500,Miami-Marlins
+Sixto Sanchez,21,SP,Pre-Arb,563500,Miami-Marlins
+Monte Harrison,24,CF,Pre-Arb,563500,Miami-Marlins
+Trevor Rogers,22,SP,Pre-Arb,563500,Miami-Marlins
+Daniel Castano,25,SP,Pre-Arb,563500,Miami-Marlins
+Jazz Chisholm,22,SS,Pre-Arb,563500,Miami-Marlins
+Francisco Cervelli,34,C,Vet,2000000,Miami-Marlins
+Harold Ramirez,25,RF,Pre-Arb,580000,Miami-Marlins
+Drew Steckenrider,29,RP,Pre-Arb,577000,Miami-Marlins
+Logan Forsythe,33,2B,Vet,575000,Miami-Marlins
+Elieser Hernandez,25,SP,Pre-Arb,571500,Miami-Marlins
+Jeff Brigham,28,RP,Pre-Arb,563500,Miami-Marlins
+Jordan Holloway,24,RP,Pre-Arb,563500,Miami-Marlins
+Mike Morin,29,RP,Arb 3,575000,Miami-Marlins
+Josh A. Smith,32,RP,Pre-Arb,575000,Miami-Marlins
+Brian Moran,31,RP,Pre-Arb,563500,Miami-Marlins
+Pat Venditte,35,RP,Pre-Arb,575000,Miami-Marlins
+Brandon Leibrandt,27,RP,Pre-Arb,563500,Miami-Marlins
+Isan Diaz,24,2B,Pre-Arb,563500,Miami-Marlins
+Charlie Morton,36,SP,Vet,15000000,Tampa-Bay-Rays
+Kevin Kiermaier,30,CF,Vet,10166666,Tampa-Bay-Rays
+Blake Snell,27,SP,Arb 1,7600000,Tampa-Bay-Rays
+Yoshitomo Tsutsugo,28,DH,Pre-Arb,5000000,Tampa-Bay-Rays
+Mike Zunino,29,C,Arb 4,4500000,Tampa-Bay-Rays
+Hunter Renfroe,28,RF,Arb 1,3300000,Tampa-Bay-Rays
+Manuel Margot,25,CF,Arb 1,2475000,Tampa-Bay-Rays
+Tyler Glasnow,26,SP,Arb 1,2050000,Tampa-Bay-Rays
+Brandon Lowe,25,2B,Pre-Arb,1500000,Tampa-Bay-Rays
+Oliver Drake,33,RP,Arb 1,1025000,Tampa-Bay-Rays
+Aaron Loup,32,RP,Vet,1000000,Tampa-Bay-Rays
+Ji-Man Choi,29,1B,Pre-Arb,850000,Tampa-Bay-Rays
+Willy Adames,24,SS,Pre-Arb,579500,Tampa-Bay-Rays
+Austin Meadows,25,LF,Pre-Arb,578900,Tampa-Bay-Rays
+Ryan Yarbrough,28,SP,Pre-Arb,578500,Tampa-Bay-Rays
+Nick Anderson,29,RP/CL,Pre-Arb,577300,Tampa-Bay-Rays
+Yandy Diaz,28,3B,Pre-Arb,576600,Tampa-Bay-Rays
+Diego Castillo,26,RP,Pre-Arb,575800,Tampa-Bay-Rays
+Joe Wendle,30,2B,Pre-Arb,575600,Tampa-Bay-Rays
+Michael Perez,27,C,Pre-Arb,566600,Tampa-Bay-Rays
+Pete Fairbanks,26,RP,Pre-Arb,564700,Tampa-Bay-Rays
+Michael Brosseau,26,3B,Pre-Arb,563500,Tampa-Bay-Rays
+Ryan Thompson,28,RP,Pre-Arb,563500,Tampa-Bay-Rays
+John Curtiss,27,RP,Pre-Arb,563500,Tampa-Bay-Rays
+Kevan Smith,32,C,Arb 1,575000,Tampa-Bay-Rays
+Aaron Slegers,27,RP,Pre-Arb,563500,Tampa-Bay-Rays
+Josh Fleming,24,SP,Pre-Arb,563500,Tampa-Bay-Rays
+Randy Arozarena,25,OF,Pre-Arb,563500,Tampa-Bay-Rays
+Chaz Roe,33,RP,Arb 2,2185200,Tampa-Bay-Rays
+Yonny Chirinos,26,RP,Pre-Arb,576700,Tampa-Bay-Rays
+Jose Alvarado,25,RP,Pre-Arb,573100,Tampa-Bay-Rays
+Jalen Beeks,26,RP,Pre-Arb,572400,Tampa-Bay-Rays
+Andrew Kittredge,30,RP,Pre-Arb,571200,Tampa-Bay-Rays
+Colin Poche,26,RP,Pre-Arb,568400,Tampa-Bay-Rays
+Cody Reed,27,RP,Pre-Arb,573500,Tampa-Bay-Rays
+Gregory Polanco,28,RF,Arb 3,8600000,Pittsburgh-Pirates
+Josh Bell,27,1B,Arb 1,4800000,Pittsburgh-Pirates
+Trevor Williams,28,SP,Arb 1,2825000,Pittsburgh-Pirates
+Adam Frazier,28,2B,Arb 1,2800000,Pittsburgh-Pirates
+Joe Musgrove,27,SP,Arb 1,2800000,Pittsburgh-Pirates
+Derek Holland,33,RP,Vet,1000000,Pittsburgh-Pirates
+J.T. Riddle,28,SS,Arb 1,850000,Pittsburgh-Pirates
+Chad Kuhl,27,SP,Arb 1,840000,Pittsburgh-Pirates
+Erik Gonzalez,28,2B,Arb 1,725000,Pittsburgh-Pirates
+Richard Rodriguez,30,RP/CL,Pre-Arb,633500,Pittsburgh-Pirates
+Colin Moran,27,3B,Pre-Arb,593500,Pittsburgh-Pirates
+Steven Brault,28,SP,Pre-Arb,590500,Pittsburgh-Pirates
+Bryan Reynolds,25,CF,Pre-Arb,589500,Pittsburgh-Pirates
+Chris Stratton,29,RP,Pre-Arb,588500,Pittsburgh-Pirates
+Mitch Keller,24,SP,Pre-Arb,577500,Pittsburgh-Pirates
+John Ryan Murphy,29,C,Arb 2,575000,Pittsburgh-Pirates
+Dovydas Neverauskas,27,RP,Pre-Arb,572000,Pittsburgh-Pirates
+JT Brubaker,26,SP,Pre-Arb,563500,Pittsburgh-Pirates
+Nik Turley,30,RP,Pre-Arb,563500,Pittsburgh-Pirates
+Geoff Hartlieb,26,RP,Pre-Arb,563500,Pittsburgh-Pirates
+Sam Howard,27,RP,Pre-Arb,563500,Pittsburgh-Pirates
+Jose Osuna,27,1B,Pre-Arb,589500,Pittsburgh-Pirates
+Nicholas Tropeano,29,RP,Arb 2,575000,Pittsburgh-Pirates
+Ke'Bryan Hayes,23,3B,Pre-Arb,563500,Pittsburgh-Pirates
+Austin Davis,27,RP,Pre-Arb,563500,Pittsburgh-Pirates
+Blake Cederlind,24,RP,Pre-Arb,563500,Pittsburgh-Pirates
+Jared Oliva,24,CF,Pre-Arb,563500,Pittsburgh-Pirates
+Andrew Susac,30,C,Arb 1,575000,Pittsburgh-Pirates
+Chris Archer,31,SP,Vet,9000000,Pittsburgh-Pirates
+Keone Kela,27,RP/CL,Arb 3,3725000,Pittsburgh-Pirates
+Jameson Taillon,28,SP,Arb 1,2250000,Pittsburgh-Pirates
+Michael Feliz,27,RP,Arb 2,1100000,Pittsburgh-Pirates
+Luke Maile,29,C,Arb 1,900000,Pittsburgh-Pirates
+Kyle Crick,27,RP/CL,Pre-Arb,590000,Pittsburgh-Pirates
+Kevin Newman,26,SS,Pre-Arb,589000,Pittsburgh-Pirates
+Jacob Stallings,30,C,Pre-Arb,586500,Pittsburgh-Pirates
+Clay Holmes,27,RP,Pre-Arb,579500,Pittsburgh-Pirates
+Nick Burdi,27,RP,Pre-Arb,574500,Pittsburgh-Pirates
+Kevin Kramer,26,SS,Pre-Arb,570500,Pittsburgh-Pirates
+Phillip Evans,27,3B,Pre-Arb,563500,Pittsburgh-Pirates
+Cole Tucker,23,SS,Pre-Arb,563500,Pittsburgh-Pirates
+Yacksel Rios,27,RP,Pre-Arb,575000,Pittsburgh-Pirates
+Tyler Bashlor,27,RP,Pre-Arb,563500,Pittsburgh-Pirates
+Anthony Alford,25,OF,Pre-Arb,566800,Pittsburgh-Pirates
+Jason Martin,24,OF,Pre-Arb,563500,Pittsburgh-Pirates
+Felipe Vazquez,28,RP/CL,Arb 3,5750000,Pittsburgh-Pirates
+Edgar Santana,28,RP,Pre-Arb,0,Pittsburgh-Pirates
+Alex Cobb,32,SP,Vet,14000000,Baltimore-Orioles
+Jose Iglesias,30,SS,Vet,2500000,Baltimore-Orioles
+Hanser Alberto,27,2B,Arb 1,1650000,Baltimore-Orioles
+John Means,27,SP,Pre-Arb,580000,Baltimore-Orioles
+Renato Nunez,26,3B,Pre-Arb,578000,Baltimore-Orioles
+Pedro Severino,26,C,Pre-Arb,576000,Baltimore-Orioles
+Shawn Armstrong,29,RP,Pre-Arb,573500,Baltimore-Orioles
+Rio Ruiz,26,3B,Pre-Arb,573000,Baltimore-Orioles
+Paul Fry,27,RP,Pre-Arb,571000,Baltimore-Orioles
+Chance Sisco,25,C,Pre-Arb,571000,Baltimore-Orioles
+Tanner Scott,25,RP,Pre-Arb,568500,Baltimore-Orioles
+Austin Hays,24,CF,Pre-Arb,567500,Baltimore-Orioles
+Travis Lakins,26,RP,Pre-Arb,566000,Baltimore-Orioles
+Hunter Harvey,25,RP,Pre-Arb,565000,Baltimore-Orioles
+Cole Sulser,30,RP,Pre-Arb,565000,Baltimore-Orioles
+Pat Valaika,27,SS,Pre-Arb,563500,Baltimore-Orioles
+Cedric Mullins,25,CF,Pre-Arb,563500,Baltimore-Orioles
+Bryan Holaday,32,C,Arb 3,575000,Baltimore-Orioles
+Thomas Eshelman,26,RP,Pre-Arb,563500,Baltimore-Orioles
+Jorge Lopez,27,SP,Pre-Arb,586750,Baltimore-Orioles
+D.J. Stewart,26,RF,Pre-Arb,567500,Baltimore-Orioles
+Keegan Akin,25,SP,Pre-Arb,563500,Baltimore-Orioles
+Ryan Mountcastle,23,SS,Pre-Arb,563500,Baltimore-Orioles
+Cesar Valdez,35,RP,Pre-Arb,563500,Baltimore-Orioles
+David Hess,26,RP,Pre-Arb,563500,Baltimore-Orioles
+Ramon Urias,26,2B,Pre-Arb,575000,Baltimore-Orioles
+Bruce Zimmerman,25,SP,Pre-Arb,563500,Baltimore-Orioles
+Branden Kline,28,RP,Pre-Arb,563500,Baltimore-Orioles
+Chris Davis,34,1B,Vet,21065362,Baltimore-Orioles
+Trey Mancini,28,RF,Arb 1,4750000,Baltimore-Orioles
+Wade LeBlanc,35,SP,Vet,800000,Baltimore-Orioles
+Anthony Santander,25,LF,Pre-Arb,572500,Baltimore-Orioles
+Richie Martin,25,SS,Pre-Arb,568000,Baltimore-Orioles
+Dillon Tate,26,RP,Pre-Arb,565000,Baltimore-Orioles
+Evan Phillips,25,RP,Pre-Arb,566500,Baltimore-Orioles
