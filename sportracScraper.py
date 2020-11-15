@@ -3,7 +3,7 @@ import requests
 import re
 
 TEAMS = ["New-York-Yankees", "Los-Angeles-Dodgers", "Chicago-Cubs", "Boston-Red-Sox", "Houston-Astros", "New-York-Mets",
-         "Philadelphia-Phillies", "Washington-Nationals", "San-Francisco-Giants", "St.-Louis-Cardinals",
+         "Philadelphia-Phillies", "Washington-Nationals", "San-Francisco-Giants", "St-Louis-Cardinals",
          "San-Diego-Padres", "Colorado-Rockies", "Los-Angeles-Angels", "Arizona-Diamondbacks", "Texas-Rangers",
          "Atlanta-Braves", "Minnesota-Twins", "Cincinnati-Reds", "Toronto-Blue-Jays", "Chicago-White-Sox",
          "Seattle-Mariners", "Detroit-Tigers", "Milwaukee-Brewers", "Cleveland-Indians", "Oakland-Athletics",
