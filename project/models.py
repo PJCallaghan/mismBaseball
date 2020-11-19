@@ -2,18 +2,25 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_squared_error, f1_score
-from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score
+from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.tree import DecisionTreeRegressor, DecisionTreeClassifier
+from sklearn.feature_selection import SelectKBest, f_regression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 
 # %% Part 1
 df = pd.read_csv("../data/salaries-and-fan-graph-stats.csv")
-df.drop(["Name"], axis=1, inplace=True)
+df.drop(["Name", "Unnamed: 0", "Team"], axis=1, inplace=True)
+df["BB%"].replace({r'%': ''}, inplace=True, regex=True)
+df["K%"].replace({r'%': ''}, inplace=True, regex=True)
+df["BB%"] = df["BB%"].astype(float)
+df["K%"] = df["K%"].astype(float)
 df = pd.get_dummies(drop_first=True, data=df)
 y = df["Salary"]
 x = df.drop(["Salary"], axis=1)
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=1)
+bestFeatures = SelectKBest(score_func=f_regression, k=4)
+best_x = bestFeatures.fit_transform(x, y)
+x_train, x_test, y_train, y_test = train_test_split(best_x, y, test_size=0.3, random_state=1)
 
 # %% Plot?
 # plt.scatter(df["Years"], df["Hits"])
@@ -73,11 +80,12 @@ sv_f1 = f1_score(y_test, sv_y_pred, average="weighted")
 print(f"Random Forest f1 score is: {sv_f1}")
 
 # %% Cross Validation
-cv = 10
+cv = 2
 lr_score = cross_val_score(lr, x, y, scoring="f1_weighted", cv=cv)
 dt_score = cross_val_score(dt, x, y, scoring="f1_weighted", cv=cv)
 rfr_score = cross_val_score(rfr, x, y, scoring="f1_weighted", cv=cv)
 sv_score = cross_val_score(sv, x, y, scoring="f1_weighted", cv=cv)
 
 # %% Print the scores
-print(f"Cross validation Scores: LR {lr_score.mean()}, DT: {dt_score.mean()}, RFR: {rfr_score.mean()}, SV: {sv_score.mean()}")
+print(
+    f"Cross validation Scores: LR {lr_score.mean()}, DT: {dt_score.mean()}, RFR: {rfr_score.mean()}, SV: {sv_score.mean()}")
